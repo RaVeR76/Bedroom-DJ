@@ -139,8 +139,7 @@ So the colours I have mainly settled for are :
 
 Below is an image of the chosen colours .....
 
-![GitHub Logo](/workspace/Bedroom-DJ/wireframes/color-image.png)
-Format: ![Alt Text](url)
+![Bedroom DJ Colours](/wireframes/color-image.png)
 
 
 # Wireframes
