@@ -122,11 +122,14 @@ for the main text and [Lato](https://fonts.google.com/specimen/Lato) for titles 
 
 Below is an example of my fonts where the title is in Lato and the text is in Titillium Web .....
 
-![Bedroom DJ Fonts](/wireframes/fonts-image.png)
+![Bedroom DJ Colours](/wireframes/fonts-image.png)
 
 ### Icons
 
-Font Awesome plus I'll write something later as I go along
+[Font Awesome](https://fontawesome.com/) will be the main source for any icons that I require. 
+I will deffo be using the various social media icons out there on my website.
+Other than them, we will just have to see what suits and fits the web page layout perfectly.
+
 
 ### Colours
 
