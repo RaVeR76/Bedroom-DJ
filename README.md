@@ -128,12 +128,17 @@ Font Awesome plus I'll write something later as I go along
 
 Unfortunately, the 90s rave scene was historically as bright and as luminous as you could get. Whites, luminous yellows, luminous oranges .... the brighter the better !
 My website will not be as bright unfortunately, even though I really love the colours but I will need to tone it down to make it more aesthetically pleasing for my visitors :)
-So colours I have mainly settled for are :
+So the colours I have mainly settled for are :
 
-- Section 1 : Home / Colours will be
-- Section 2 : Profile / Colours will be
-- Section 3 : Backstory / Colours will be
-- Section 4 : Top 10 Rave Classics
+|Name       |Hex Code   |Basic Description  |Usage     |
+| --------- |:---------:|:-----------------:| --------:|
+|Cuntured   |#F8F9FA    |Off White          |     |
+
+
+- Cultured #F8F9FA which is like an off white
+- Lavender Floral #B696ED which is a soft purple
+- Fiery Rose #EB5C68 which is like a soft red
+- 
 - Section 5 : Up & Coming Tour Dates (funny) / Colours will be
 - Section 6 : Email Contact Form / Colours will be
 
