@@ -13,32 +13,29 @@ Below is the main contents for starters just to get the hang of this README mala
 # Contents
 
 
-* UX
+- [User Experience (UI)](#user-experience--ui-)
+  * [Project Goals](#project-goals)
+  * [User Goals](#user-goals)
+  * [User Stories](#user-stories)
+  * [Site Owner Goals](#site-owner-goals)
+  * [User Requirements and Expectations](#user-requirements-and-expectations)
+    + [Requirements](#requirements)
+    + [Expectations](#expectations)
+  * [Design Choices](#design-choices)
+    + [Fonts](#fonts)
+    + [Icons](#icons)
+    + [Colours](#colours)
+- [Wireframes](#wireframes)
+    + [What didn't make the cut](#what-didn-t-make-the-cut)
+- [Features](#features)
+- [Technologies Utilised](#technologies-utilised)
+    + [Languages](#languages)
+    + [Tools and Libraries](#tools-and-libraries)
+- [Testing](#testing)
+- [Bugs](#bugs)
+- [Deployment](#deployment)
+- [Credits](#credits)
 
-    - Project Goals
-    - User Goals
-    - User Stories
-    - Site Owner Goals
-    - User Requirements and Expectations
-    - Design Choices
-        - Fonts
-        - Icons
-        - Colours
-
-* Technologies
-
-* Features
-    
-    - Features that have been developed
-    - Features that will be implemented in the future
-
-* Testing
-
-* Bugs
-
-* Deployment
-
-* Credit
 
 # User Experience (UI)
 
