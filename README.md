@@ -167,7 +167,7 @@ After my initial discussion with my cool mentor, he said a scrolling single page
 I realised this was the correct direction when designing my wireframes and also when researching other websites out there.
 
 
-### **What didn't make the cut ....**
+### What didn't make the cut
 
 
 # Features
@@ -175,7 +175,7 @@ I realised this was the correct direction when designing my wireframes and also 
 
 
 
-# Technologies Required
+# Technologies Utilised
 
 ### Languages
 
@@ -190,4 +190,10 @@ I realised this was the correct direction when designing my wireframes and also 
 - [Font Awesome](https://fontawesome.com/)
 - [Google Fonts](https://fonts.google.com/)
 
+# Testing
 
+# Bugs
+
+# Deployment
+
+# Credits
