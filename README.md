@@ -120,6 +120,10 @@ Personally, I would have used big bold graffiti style fonts but I know in my hea
 So I have settled on the simplicity side of things & the more user friendly style of [Titillium Web](https://fonts.google.com/specimen/Titillium+Web)
 for the main text and [Lato](https://fonts.google.com/specimen/Lato) for titles and section headings.
 
+Below is an example of my fonts where the title is in Lato and the text is in Titillium Web .....
+
+![Bedroom DJ Fonts](/wireframes/fonts-image.png)
+
 ### Icons
 
 Font Awesome plus I'll write something later as I go along
