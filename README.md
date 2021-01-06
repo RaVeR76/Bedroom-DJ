@@ -130,17 +130,18 @@ Unfortunately, the 90s rave scene was historically as bright and as luminous as 
 My website will not be as bright unfortunately, even though I really love the colours but I will need to tone it down to make it more aesthetically pleasing for my visitors :)
 So the colours I have mainly settled for are :
 
-|Name       |Hex Code   |Basic Description  |Usage     |
-| --------- |:---------:|:-----------------:| --------:|
-|Cuntured   |#F8F9FA    |Off White          |     |
+|Name            |Hex Code   |Basic Description  |Usage                           |
+|:--------------:|:---------:|:-----------------:|:------------------------------:|
+|Cultured        |#F8F9FA    |Off White          |Body background, text & titles  |
+|Lavender Floral |#B696ED    |Soft Purple        |Body background, menu selections|
+|Fiery Rose      |#EB5C68    |Soft Red           |Body background, menu selections|
+|Charleston Green|#212529    |Off Black          |Body background, text & titles  |
 
+Below is an image of the chosen colours .....
 
-- Cultured #F8F9FA which is like an off white
-- Lavender Floral #B696ED which is a soft purple
-- Fiery Rose #EB5C68 which is like a soft red
-- 
-- Section 5 : Up & Coming Tour Dates (funny) / Colours will be
-- Section 6 : Email Contact Form / Colours will be
+![GitHub Logo](/workspace/Bedroom-DJ/wireframes/color-image.png)
+Format: ![Alt Text](url)
+
 
 # Wireframes
 
