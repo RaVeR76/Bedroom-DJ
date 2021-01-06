@@ -185,9 +185,9 @@ I realised this was the correct direction when designing my wireframes and also 
 
 ### Tools and Libraries
 
-- Git 
-- Bootstrap
-- Font Awesome
-- Google Fonts
+- [Git](https://en.wikipedia.org/wiki/Git) 
+- [Bootstrap](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework))
+- [Font Awesome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
 
 
