@@ -119,7 +119,7 @@ for the main text and [Lato](https://fonts.google.com/specimen/Lato) for titles 
 
 Below is an example of my fonts where the title is in Lato and the text is in Titillium Web .....
 
-![Bedroom DJ Colours](/wireframes/fonts-image.png)
+![Bedroom DJ Colours](https://github.com/RaVeR76/Bedroom-DJ/raw/master/wireframes/fonts-example.png)
 
 ### Icons
 
@@ -143,7 +143,7 @@ So the colours I have mainly settled for are :
 
 Below is an image of the chosen colours .....
 
-![Bedroom DJ Colours](/wireframes/color-image.png)
+![Bedroom DJ Colours](https://github.com/RaVeR76/Bedroom-DJ/raw/master/wireframes/colour-scheme.png)
 
 
 # Wireframes
