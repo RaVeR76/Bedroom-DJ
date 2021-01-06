@@ -78,9 +78,9 @@ How cool would that be ha ha ?
 
 
 * As a site owner, I want to make sure site visitors smile & laugh
-* As a site owner, I want them yo connect and love the fictional character that is DJ Snooze-A-Lot
+* As a site owner, I want them to connect and love the fictional character that is DJ Snooze-A-Lot
 * As a site owner, I want people to enjoy some top tunes from the 90s
-* As a site owner, I want like minded ravers to relive thier youth through my website
+* As a site owner, I want like minded ravers to relive their youth through my website
 * As a site owner, I want set up a mailing list for future CD sales and updates. Also a competetion possibly on sigh up.
 * As a site owner, I want people to wonder who is the man behind this crazy facade that is Irelands longest Bedroom DJ
 
@@ -115,7 +115,10 @@ Anyway, simple but funny is key to my design
 
 ### Fonts
 
-Font Awesome plus I'll write something later as I go along
+For my fonts, I am going to use [Google Fonts](https://fonts.google.com/) as my source of inspiration :)
+Personally, I would have used big bold graffiti style fonts but I know in my heart this would have looked pretty awful to the user. 
+So I have settled on the simplicity side of things & the more user friendly style of [Titillium Web](https://fonts.google.com/specimen/Titillium+Web)
+for the main text and [Lato](https://fonts.google.com/specimen/Lato) for titles and section headings.
 
 ### Icons
 
