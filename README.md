@@ -151,4 +151,17 @@ Below is an image of the chosen colours .....
 
 # Wireframes
 
-More to follow .......
+The software that I used for my **wireframes** was [***Balsamiq***](https://balsamiq.com/).
+This was the first time I used such software so it was a whole new learning curve for me. 
+The software allows you design the basic layout of your website on devices such as a desktop, tablet and mobile.
+They are just simple 2D sketches but I have quickly found out how important these really are:)
+
+You can have a wee look at my wireframes below:
+
+- Desktop Wireframe
+- Tablet Wireframe
+- Mobile Wireframe
+
+When I first started thinking about how my website was going to look, I automatically thought on a multi-page design as that's what I was used to seeing on the internet.
+After my initial discussion with my cool mentor, he said a scrolling single page would be more suitable to my design and content.
+I realised this was the correct direction when designing my wireframes and also when researching other websites out there.
