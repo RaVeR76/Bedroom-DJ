@@ -165,3 +165,29 @@ You can have a wee look at my wireframes below:
 When I first started thinking about how my website was going to look, I automatically thought on a multi-page design as that's what I was used to seeing on the internet.
 After my initial discussion with my cool mentor, he said a scrolling single page would be more suitable to my design and content.
 I realised this was the correct direction when designing my wireframes and also when researching other websites out there.
+
+
+### **What didn't make the cut ....**
+
+
+# Features
+
+
+
+
+# Technologies Required
+
+### Languages
+
+- HTML
+- CSS 
+- JS 
+
+### Tools and Libraries
+
+- Git 
+- Bootstrap
+- Font Awesome
+- Google Fonts
+
+
