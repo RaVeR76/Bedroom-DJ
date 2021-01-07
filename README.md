@@ -155,7 +155,7 @@ They are just simple 2D sketches but I have quickly found out how important thes
 
 You can have a wee look at my wireframes below:
 
-- Desktop Wireframe
+- [Desktop Wireframe](https://github.com/RaVeR76/Bedroom-DJ/raw/master/wireframes/desktop-wireframe.pdf)
 - Tablet Wireframe
 - Mobile Wireframe
 
