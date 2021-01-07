@@ -156,7 +156,7 @@ They are just simple 2D sketches but I have quickly found out how important thes
 You can have a wee look at my wireframes below:
 
 - [Desktop Wireframe](https://github.com/RaVeR76/Bedroom-DJ/raw/master/wireframes/desktop-wireframe.pdf)
-- Tablet Wireframe
+- [Tablet Wireframe](https://github.com/RaVeR76/Bedroom-DJ/raw/master/wireframes/tablet-wireframe.pdf)
 - Mobile Wireframe
 
 When I first started thinking about how my website was going to look, I automatically thought on a multi-page design as that's what I was used to seeing on the internet.
