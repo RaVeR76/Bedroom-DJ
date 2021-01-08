@@ -1,2 +1,15 @@
 /*------- Bedroom-DJ CSS File --------*/
 
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Titillium+Web:wght@300;400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+    font-family: Titillium Web;
+    color: #EB5C68;
+}
+
