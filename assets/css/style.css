@@ -8,8 +8,26 @@
     border: 0;
 }
 
-body{
-    font-family: Titillium Web;
-    color: #EB5C68;
+body {
+  padding: 0;
+  margin: 0;
+  background: #Fff;
 }
-
+/*--- navigation bar ---*/
+.navbar {
+  background: #F8F9FA;
+}
+.nav-link,
+.djlogo {
+  color: #B696ED;
+  cursor: pointer;
+}
+.nav-link {
+  margin-right: 1em !important;
+}
+.nav-link:hover {
+  color: #EB5C68;
+}
+.navbar-collapse {
+  justify-content: flex-end;
+}
