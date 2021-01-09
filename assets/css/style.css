@@ -122,3 +122,19 @@ body {
     width: 100%;
     text-align:center;
 }
+
+
+
+/*--- Footer Section ---*/
+
+footer {
+    background-color: #212529;
+    color: #F8F9FA;
+    min-height: 100px;
+    margin: 0;
+}
+
+#footer-info h2 {
+    width: 100%;
+    text-align:center;
+}
