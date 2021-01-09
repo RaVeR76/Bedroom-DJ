@@ -94,3 +94,17 @@ body {
     width: 100%;
     text-align:center;
 }
+
+
+/*--- Tour Section ---*/
+
+#tour{
+    padding: 100px;
+    background-color: #B696ED;
+}
+
+
+#tour h2 {
+    width: 100%;
+    text-align:left;
+}
