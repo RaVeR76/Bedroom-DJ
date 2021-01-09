@@ -49,7 +49,7 @@ body {
 
 #hero-image h2 {
     width: 100%;
-    text-align:center;
+    text-align:left;
 }
 
 
@@ -64,4 +64,18 @@ body {
 #profile h2 {
     width: 100%;
     text-align:center;
+}
+
+
+/*--- Backstory Section ---*/
+
+#back{
+    padding: 100px;
+    background-color: #B696ED;
+}
+
+
+#back h2 {
+    width: 100%;
+    text-align:right;
 }
