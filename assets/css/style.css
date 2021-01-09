@@ -2,17 +2,25 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Titillium+Web:wght@300;400&display=swap');
 
-*{
-    margin: 0;
-    padding: 0;
-    border: 0;
+
+
+/*--- Colours ---*/
+
+
+
+
+
+
+
+
+/*--- Special paddings / margins / text ---*/
+
+
+.inline-block {
+    display: inline-block;
 }
 
-body {
-    margin: 0;
-    background: #Fff;
-    padding: 0;
-}
+
 
 /*--- navigation bar ---*/
 
@@ -138,7 +146,31 @@ footer {
     margin: 0;
 }
 
-#footer-info h2 {
-    width: 100%;
-    text-align:center;
+.music-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #F8F9FA;
+    background: #B696ED;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.music-links li a i:hover {
+    background: #EB5C68;
+}
+
+#footer-info {
+    padding: 20px;
+    text-align: center;
+}
+/*--
+.footer-music{
+    background: #EB5C68;
 }
