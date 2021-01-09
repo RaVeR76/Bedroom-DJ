@@ -39,7 +39,7 @@ body {
 }
 
 .fixed-top{
-   position: sticky;     /*-- Added this because when the website was collasped, the activation of the navbar burger menu icon would cause drop down menu to overlap my first section --*/ 
+   position: sticky;     /*-- Added this because when the screen was collasped, the activation of the navbar burger menu icon would cause drop down menu to overlap my first section --*/ 
    }   
 
 
