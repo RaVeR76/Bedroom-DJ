@@ -20,17 +20,20 @@ body {
 .navbar {
   background: #F8F9FA;
 }
-.nav-link,
-.djlogo {
+
+.nav-link, .djlogo {
   color: #212529;
   cursor: pointer;
 }
+
 .nav-link {
   margin-right: 1em !important;
 }
+
 .nav-link:hover {
   color: #EB5C68;
 }
+
 .navbar-collapse {
   justify-content: flex-end;
 }
@@ -44,7 +47,21 @@ body {
 }
 
 
-h2 {
+#hero-image h2 {
+    width: 100%;
+    text-align:center;
+}
+
+
+/*--- Profile Section ---*/
+
+#profile{
+    padding: 100px;
+    background-color: #F8F9FA;
+}
+
+
+#profile h2 {
     width: 100%;
     text-align:center;
 }
