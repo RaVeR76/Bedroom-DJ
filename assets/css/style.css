@@ -38,7 +38,13 @@ body {
 
 /*--- Hero Section ---*/
 
-#hero{
+#hero-image{
     padding: 100px;
     background-color: #EB5C68;
+}
+
+
+h2 {
+    width: 100%;
+    text-align:center;
 }
