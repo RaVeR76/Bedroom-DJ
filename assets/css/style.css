@@ -13,13 +13,16 @@ body {
   margin: 0;
   background: #Fff;
 }
+
 /*--- navigation bar ---*/
+
+
 .navbar {
   background: #F8F9FA;
 }
 .nav-link,
 .djlogo {
-  color: #B696ED;
+  color: #212529;
   cursor: pointer;
 }
 .nav-link {
@@ -30,4 +33,12 @@ body {
 }
 .navbar-collapse {
   justify-content: flex-end;
+}
+
+
+/*--- Hero Section ---*/
+
+#hero{
+    padding: 100px;
+    background-color: #EB5C68;
 }
