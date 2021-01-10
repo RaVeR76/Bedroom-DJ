@@ -139,7 +139,7 @@
 /*--- Top 10 Section ---*/
 
 #top {
-    padding: 100px;
+    padding: 50px;
     background-color: #212529;
     color: #F8F9FA;
 }
@@ -147,7 +147,7 @@
 
 #top h2 {
     width: 100%;
-    text-align:center;
+    text-align:left;
 }
 
 
