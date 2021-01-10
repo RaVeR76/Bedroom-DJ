@@ -20,6 +20,12 @@
     display: inline-block;
 }
 
+#footer-info h5 {
+    font-family: "Lato", sans-serif;
+    text-transform: uppercase;
+    color: #B696ED;
+}
+
 
 
 /*--- navigation bar ---*/
