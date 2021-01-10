@@ -45,7 +45,7 @@
 }
 
 .nav-link:hover {
-    color: #EB5C68;
+    color: c;
 }
 
 .navbar-collapse {
@@ -57,12 +57,14 @@
    }   
 
 
-/*--- Hero Section ---*/
+/*------------------------ Hero Section -----------------------*/
 
+/*--- Hero Transition Started ---*/
 
 .column#caption {
 	position: relative;
 }
+
 .column#caption .text {
 	position: absolute;		
     top: 50%;
@@ -70,22 +72,27 @@
 	transform: translate(-50%, -50%);
 	z-index: 10;
     opacity: 0;
-    transition: all 0.8s ease;			
+    transition: all 1.0s ease;			
 }
-.column#caption .text h1 {		
-	margin: 0;		
-	color: white;
+
+.column#caption .text h1 {	
+    font-family: "Lato", sans-serif;	
+    margin: 0;		
+	color: #F8F9FA;
 }
+
 .column#caption:hover .text {
-	opacity: 1;
+	opacity: 0.7;
 
 }
-/*
+
 .column#caption:hover img {
     -webkit-filter: sepia(90%);
     -moz-filter: sepia(90%);
     -o-filter: sepia(90%);
 }
+/*--- Hero Transition Finished ---*/
+
 
 
 /*
