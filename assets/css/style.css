@@ -60,6 +60,34 @@
 /*--- Hero Section ---*/
 
 
+.column#caption {
+	position: relative;
+}
+.column#caption .text {
+	position: absolute;		
+    top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	z-index: 10;
+    opacity: 0;
+    transition: all 0.8s ease;			
+}
+.column#caption .text h1 {		
+	margin: 0;		
+	color: white;
+}
+.column#caption:hover .text {
+	opacity: 1;
+
+}
+/*
+.column#caption:hover img {
+    -webkit-filter: sepia(90%);
+    -moz-filter: sepia(90%);
+    -o-filter: sepia(90%);
+}
+
+
 /*
 #hero-image {
     height: 300px;
