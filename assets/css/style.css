@@ -23,6 +23,11 @@
     color: #B696ED;
 }
 
+.uppercase-center {
+    text-transform: uppercase;
+    text-align: center;
+}
+
 
 /*--- navigation bar ---*/
 
@@ -112,12 +117,6 @@
 }
 
 
-#profile h2 {
-    width: 100%;
-    text-align:center;
-}
-
-
 /*--- Backstory Section ---*/
 
 #back {
@@ -125,11 +124,6 @@
     background-color: #B696ED;
 }
 
-
-#back h2 {
-    width: 100%;
-    text-align:right;
-}
 
 
 /*--- Top 10 Section ---*/
@@ -140,11 +134,6 @@
     color: #F8F9FA;
 }
 
-
-#top h2 {
-    width: 100%;
-    text-align:left;
-}
 
 
 /*--- Tour Section ---*/
@@ -184,11 +173,6 @@
     background-color: #F8F9FA;
 }
 
-
-#contact h2 {
-    width: 100%;
-    text-align:center;
-}
 
 
 
