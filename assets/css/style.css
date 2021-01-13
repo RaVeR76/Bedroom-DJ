@@ -160,14 +160,18 @@
 
 }
 
+#tour h1 {
+    color: #fafafa;
+    text-align: center;
+    background-color: rgba(0,0,0, .2);
+}
 
 
 #tour div{
     color: #fafafa;
     background-color: rgba(0,0,0, .2);
     text-align: center;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding: 50px 0;
 } 
 
 
