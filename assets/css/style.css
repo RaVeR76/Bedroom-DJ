@@ -10,8 +10,6 @@
 
 
 
-
-
 /*--- Special paddings / margins / text ---*/
 
 
@@ -24,8 +22,6 @@
     text-transform: uppercase;
     color: #B696ED;
 }
-
-
 
 
 /*--- navigation bar ---*/
@@ -89,7 +85,7 @@
 .column#caption:hover img {
     -webkit-filter: sepia(90%);
     -moz-filter: sepia(90%);
-    -o-filter: sepia(90%);
+    -o-filter: sepia(90%);   
 }
 /*--- Hero Transition Finished ---*/
 
@@ -153,16 +149,28 @@
 
 /*--- Tour Section ---*/
 
-#tour {
-    padding: 100px;
-    background-color: #B696ED;
-}
 
-
-#tour h1 {
+#tour{
+    background-image: url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/hero-image-test-wide2-smoky-x700.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     width: 100%;
-    text-align:center;
+    overflow: hidden;
+
 }
+
+
+
+#tour div{
+    color: #fafafa;
+    background-color: rgba(0,0,0, .2);
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+} 
+
+
 
 
 /*--- Contact Section ---*/
