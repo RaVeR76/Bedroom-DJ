@@ -151,8 +151,8 @@
 
 #tour h1 {
     color: #fafafa;
-    text-align: center;
     background-color: rgba(0,0,0, .2);
+    padding: 50px;
 }
 
 
@@ -168,8 +168,13 @@
 
 /*--- Contact Section ---*/
 
+#contact h1 {
+    background-color: #F8F9FA;
+    padding: 50px;
+}
+
+
 #contact {
-    padding: 100px;
     background-color: #F8F9FA;
 }
 
