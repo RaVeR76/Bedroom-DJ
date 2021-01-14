@@ -205,6 +205,8 @@ h1 {
 }
 
 #contact .center-box {
+    margin: auto;
+    display: block;
     width: 50%;
 }
 
