@@ -44,6 +44,13 @@ h1 {
     color: #fafafa;
 }
 
+#contact h1 {
+    font-family: "Lato", sans-serif;
+    color: #212529;
+}
+
+
+
 
 /*--- navigation bar ---*/
 
@@ -116,13 +123,22 @@ h1 {
 
 /*--- Profile Section ---*/
 
+#profile h1 {
+    padding: 50px 50px 50px;
+}
+
+
 #profile {
     padding: 100px;
-    background-color: #F8F9FA;
+    background-color: #212529;
 }
 
 
 /*--- Backstory Section ---*/
+
+#back h1 {
+    padding: 50px 50px 50px;
+}
 
 #back {
     padding: 100px;
@@ -132,6 +148,10 @@ h1 {
 
 
 /*--- Top 10 Section ---*/
+
+#top h1 {
+    padding: 50px 50px 50px;
+}
 
 #top {
     padding: 30px;
@@ -153,8 +173,6 @@ h1 {
     overflow: hidden;
 
 } 
-   
-
 
 
 #tour h1 {
@@ -174,14 +192,15 @@ h1 {
 /*--- Contact Section ---*/
 
 #contact h1 {
-    background-color: #212529;
-   /* padding: 50px;*/
+    padding: 50px 50px 50px;
 }
 
 
 #contact {
     background-color: #F8F9FA;
 }
+
+
 
 
 
