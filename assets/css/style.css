@@ -34,7 +34,15 @@ h1 {
     color: #fafafa;
 }
 
+#tour h3 {
+    font-family: "Lato", sans-serif;
+    color: #fafafa;
+}
 
+#tour h4 {
+    font-family: "Titillium Web", sans-serif;
+    color: #fafafa;
+}
 
 
 /*--- navigation bar ---*/
@@ -150,14 +158,11 @@ h1 {
 
 
 #tour h1 {
-  /*  background-color: rgba(0,0,0, .2);*/
     padding: 50px 50px 50px;
 }
 
 
 #tour div{
-    color: #fafafa;
-   /* background-color: rgba(0,0,0, .2);*/
     text-align: center;
     padding: 50px 50px 100px;
 } 
