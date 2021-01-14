@@ -28,6 +28,14 @@
     text-align: center;
 }
 
+h1 {
+    font-family: "Lato", sans-serif;
+    text-transform: uppercase;
+    color: #fafafa;
+}
+
+
+
 
 /*--- navigation bar ---*/
 
@@ -128,10 +136,10 @@
 /*--- Tour Section ---*/
 
 
-#tour{
-    background-image: url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/Neon%20Banner.jpg");
+#tour {
+    background-image: url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/Neon%20Banner%202.jpg");
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: 100% 120%;
     background-position: center;
     width: 100%;
     overflow: hidden;
@@ -142,17 +150,16 @@
 
 
 #tour h1 {
-    color: #fafafa;
-    background-color: rgba(0,0,0, .2);
-    padding: 10px 50px 50px;
+  /*  background-color: rgba(0,0,0, .2);*/
+    padding: 50px 50px 50px;
 }
 
 
 #tour div{
     color: #fafafa;
-    background-color: rgba(0,0,0, .2);
+   /* background-color: rgba(0,0,0, .2);*/
     text-align: center;
-    padding: 50px 0;
+    padding: 50px 50px 100px;
 } 
 
 
