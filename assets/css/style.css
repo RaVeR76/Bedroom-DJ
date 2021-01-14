@@ -200,7 +200,8 @@ h1 {
     background-color: #F8F9FA;
 }
 
-#contact div {
+
+#contact div{
     text-align: center;
 }
 
@@ -208,6 +209,7 @@ h1 {
     margin: auto;
     display: block;
     width: 50%;
+    padding: 10px;
 }
 
 
