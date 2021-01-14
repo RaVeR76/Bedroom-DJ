@@ -96,18 +96,7 @@
 
 
 
-/*
-#hero-image {
-    height: 300px;
 
-}
-
-/*
-#hero-image h2 {
-    width: 100%;
-    text-align:left;
-}
-*/
 
 /*--- Profile Section ---*/
 
@@ -140,14 +129,17 @@
 
 
 #tour{
-    background-image: url("assets/images/Neon Banner.jpg");
+    background-image: url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/Neon%20Banner.jpg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
     background-position: center;
     width: 100%;
     overflow: hidden;
 
-}
+} 
+   
+
+
 
 #tour h1 {
     color: #fafafa;
