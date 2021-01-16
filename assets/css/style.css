@@ -217,14 +217,23 @@ h1 {
     text-align: center;
 }
 
-#contact .pad-bot {
+#contact .con-pad {
+   padding-bottom: 150px;
+}
+
+#contact .pad-bot2 {
     padding-top: 30px;
     padding-bottom: 50px;
 }
 
-#contact .pad-bot2 {
-    padding-bottom: 150px;
+/*
+#contact .pad-right {
+    padding-left: 10%;
 }
+*/
+
+
+
 
 
 #contact .col1 {
@@ -234,20 +243,14 @@ h1 {
 
 #contact .col2 {
     background-color: #F8F9FA;
-    vertical-align: middle;
+    text-align: center;
 }
 
 #contact .col3 {
     background-color: #F819FA;
 }
 
-#contact label input {
-    vertical-align: middle;
-}
 
-#contact h1 img {
-    display: inline-block;
-}
 
 
 
