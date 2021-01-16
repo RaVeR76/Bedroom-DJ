@@ -139,6 +139,7 @@ h1 {
 
 #back {
     background-image: url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/rave-caves-image2-neo.jpg");
+    background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: 100%;
     overflow: hidden;
