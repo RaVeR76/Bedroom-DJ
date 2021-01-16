@@ -195,13 +195,17 @@ h1 {
     padding: 50px 50px 50px; 
 }
 
-
 #contact {
     background-color: #F8F9FA;
 }
 
 #contact h3 {
     text-align: center; 
+    padding: 20px;
+}
+
+ .text-center p {
+    text-align: center;
 }
 
 #contact .contact-center  {
@@ -213,11 +217,22 @@ h1 {
 }
 
 
+#contact .col1 {
+    background-color: aqua;
+}
 
+#contact .col2 {
+    background-color: #F8F9FA;
+    vertical-align: middle;
+}
 
+#contact .col3 {
+    background-color: #F819FA;
+}
 
-
-
+#contact label input {
+    vertical-align: middle;
+}
 
 
 
