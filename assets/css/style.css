@@ -192,7 +192,7 @@ h1 {
 /*--- Contact Section ---*/
 
 #contact h1 {
-    padding: 50px 50px 50px;
+    padding: 50px 50px 50px; 
 }
 
 
@@ -200,11 +200,9 @@ h1 {
     background-color: #F8F9FA;
 }
 
-/*
-#contact div{
-    text-align: center;
+#contact h3 {
+    text-align: center; 
 }
-*/
 
 #contact .contact-center  {
     margin: auto;
@@ -215,19 +213,6 @@ h1 {
 }
 
 
-
-
-#contact .test1 {
-    background-color: aqua;
-}
-
-#contact .test2 {
-    background-color: #B696ED;
-}
-
-#contact .test3 {
-    background-color: #1819FA;
-}
 
 
 
