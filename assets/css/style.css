@@ -200,18 +200,33 @@ h1 {
     background-color: #F8F9FA;
 }
 
-
+/*
 #contact div{
     text-align: center;
-}
+}*/
 
-#contact .contact-center {
+#contact .contact-center  {
     margin: auto;
     display: block;
     width: 50%;
     padding: 10px;
+    text-align: center;
 }
 
+#contact 
+
+
+
+
+
+
+
+
+/*
+#contact .middle {
+    display: inline-block;
+    vertical-align: middle;
+}
 
 
 
