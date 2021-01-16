@@ -203,7 +203,8 @@ h1 {
 /*
 #contact div{
     text-align: center;
-}*/
+}
+*/
 
 #contact .contact-center  {
     margin: auto;
@@ -213,20 +214,25 @@ h1 {
     text-align: center;
 }
 
-#contact 
 
 
 
-
-
-
-
-
-/*
-#contact .middle {
-    display: inline-block;
-    vertical-align: middle;
+#contact .test1 {
+    background-color: aqua;
 }
+
+#contact .test2 {
+    background-color: #B696ED;
+}
+
+#contact .test3 {
+    background-color: #1819FA;
+}
+
+
+
+
+
 
 
 
