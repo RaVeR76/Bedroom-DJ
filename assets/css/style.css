@@ -216,6 +216,10 @@ h1 {
     text-align: center;
 }
 
+#contact .pad-bot {
+    padding-bottom: 50px;
+}
+
 
 #contact .col1 {
     background-color: aqua;
