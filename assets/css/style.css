@@ -219,6 +219,7 @@ h1 {
 
 #contact .col1 {
     background-color: aqua;
+    
 }
 
 #contact .col2 {
@@ -234,7 +235,9 @@ h1 {
     vertical-align: middle;
 }
 
-
+#contact h1 img {
+    display: inline-block;
+}
 
 
 
