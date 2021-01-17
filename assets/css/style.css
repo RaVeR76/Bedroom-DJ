@@ -139,6 +139,21 @@ h1 {
     background-color: azure;
 }
 
+
+#profile .tab-pad {
+  padding: 50px;
+}
+
+#profile .tab-pad tr td{
+  padding: 20px;
+}
+
+
+
+
+
+
+/*
 .icon-wrapper {
     display: flex;
     flex-direction: row;
@@ -147,7 +162,7 @@ h1 {
 .firstthree, .secondthree {
     min-width: 225px;
     box-sizing: border-box;
-}
+}*/
 
 
 
@@ -175,7 +190,7 @@ h1 {
 
 #back {
     background-image: url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/rave-caves-image2-neo.jpg");
-    background-attachment: fixed;
+    background-attachment: fixed;    /* Needs fixed for mobile view */
     background-repeat: no-repeat;
     background-size: 100%;
     overflow: hidden;
