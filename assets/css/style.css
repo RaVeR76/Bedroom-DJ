@@ -3,6 +3,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Titillium+Web:wght@300;400&display=swap');
 
 
+body {
+        background:none transparent;
+    }
+
+
 
 /*--- Colours ---*/
 
@@ -229,6 +234,10 @@ h1 {
     opacity: 1;
 } */
 
+#back {
+    background-color: #EB5C68;
+    opacity: .2;
+}
 
 #back h1 {
     padding: 50px 50px 50px;
@@ -270,14 +279,25 @@ h1 {
 
 #top .top-links {
     background-color: transparent;
+    color: #F8F9FA;
     font-size: 20px;
     border: none;
-
+    text-decoration: none;
 }
 
 #top .you-pad {
     padding: 20px;
 }
+
+#top div .underline a i:hover {
+    color: #B696ED;
+}
+
+
+
+
+
+
 
 
 
@@ -425,7 +445,7 @@ footer {
     -o-transition: all 0.35s ease-in-out;
 }
 
-.social-links li a i:hover {
+.social-links li a:hover {
     background: #B696ED;
     color: #212529;
 }
