@@ -291,6 +291,10 @@ footer {
     background: #B696ED;
 }
 
+.social-links {
+    padding-top: 10px;
+}
+
 .social-links li a i {
     width: 32px;
     height: 32px;
