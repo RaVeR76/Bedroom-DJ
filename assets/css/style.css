@@ -219,14 +219,16 @@ h1 {
 
 /*--- Backstory Section ---*/
 
+/*
 #back {
     background-image: url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/rave-caves-image2-neo.jpg");
-    background-attachment: fixed;    /* Needs fixed for mobile view */
+    background-attachment: fixed;    /* Needs fixed for mobile view */ /*
     background-repeat: no-repeat;
     background-size: 100%;
     overflow: hidden;
     opacity: 1;
-}
+} */
+
 
 #back h1 {
     padding: 50px 50px 50px;
@@ -243,19 +245,31 @@ h1 {
 /*--- Top 10 Section ---*/
 
 #top {
+    background-image: url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/FB_IMG_1540053778461.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 110%;
+  /*background-position: center;
+    width: 100%;*/
+    overflow: hidden;
+    padding-bottom: 80px;
+}
+/*
+
+#top {
     background-color: #F8F9FA;
     color: #212529;
     padding-bottom: 80px;
-}
+}*/
 
 
 #top h1 {
     padding: 50px 50px 50px;
-    color: #212529;
+    color: #F8F9FA;
 }
 
 #top .top-links {
-    background-color: #F8F9FA;
+    background-color: transparent;
     font-size: 20px;
     border: none;
 
@@ -263,7 +277,6 @@ h1 {
 
 #top .you-pad {
     padding: 20px;
-    background-color: aqua;
 }
 
 
