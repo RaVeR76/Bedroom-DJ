@@ -124,11 +124,6 @@ h1 {
 
 /*--- Profile Section ---*/
 
-#profile {
-    padding: 100px;
-    background-color: #F8F9FA;
-}
-
 
 #profile h1 {
     padding: 50px 50px 50px;
@@ -157,6 +152,10 @@ h1 {
     opacity: 1;
 }
 
+#back h1 {
+    padding: 50px 50px 50px;
+}
+
 
 .back-pad {
     height: 700px;
@@ -167,20 +166,24 @@ h1 {
 
 /*--- Top 10 Section ---*/
 
-#top h1 {
-    padding: 50px 50px 50px;
-}
-
 #top {
-    padding: 30px;
     background-color: #212529;
     color: #F8F9FA;
+}
+
+
+#top h1 {
+    padding: 50px 50px 50px;
 }
 
 
 
 /*--- Tour Section ---*/
 
+
+#tour h1 {
+    padding: 50px 50px 50px;
+}
 
 #tour {
     background-image: url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/Neon%20Banner%202.jpg");
@@ -191,12 +194,6 @@ h1 {
     overflow: hidden;
 
 } 
-
-
-#tour h1 {
-    padding: 50px 50px 50px;
-}
-
 
 #tour div{
     text-align: center;
