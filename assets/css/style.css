@@ -267,6 +267,10 @@ footer {
     margin: 0;
 }
 
+.music-links {
+    padding-top: 10px;
+}
+
 .music-links li a i {
     width: 32px;
     height: 32px;
