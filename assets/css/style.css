@@ -137,6 +137,10 @@ h1 {
     padding: 50px 50px 50px;
     color: #212529;
 }
+/*
+#profile h3 {
+    padding: 30px;
+}*/
 
 
 #profile .tab-pad {
@@ -161,6 +165,7 @@ h1 {
 
 #profile .prof-row1 {
     background-color: aqua;
+    margin-top: 50px;
 }
 
 #profile .prof-row2 {
