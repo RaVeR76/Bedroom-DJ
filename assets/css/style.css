@@ -124,15 +124,26 @@ h1 {
 
 /*--- Profile Section ---*/
 
-#profile h1 {
-    padding: 50px 50px 50px;
-}
-
-
 #profile {
     padding: 100px;
-    background-color: #212529;
+    background-color: #F8F9FA;
 }
+
+
+#profile h1 {
+    padding: 50px 50px 50px;
+    color: #212529;
+}
+
+
+#profile .prof-prof {
+    background-color: aqua;
+}
+
+#profile .prof-quest {
+    background-color: azure;
+}
+
 
 
 /*--- Backstory Section ---*/
