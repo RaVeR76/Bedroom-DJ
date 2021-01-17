@@ -35,6 +35,14 @@ h1 {
     color: #fafafa;
 }
 
+#profile h3{
+    font-family: "Titillium Web", sans-serif;
+    font-size: 32px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+
 #tour h3 {
     font-family: "Lato", sans-serif;
     color: #fafafa;
@@ -131,11 +139,6 @@ h1 {
 }
 
 
-#profile .prof-quest {
-    background-color: azure;
-}
-
-
 #profile .tab-pad {
   padding: 50px;
   font-size: 20px;
@@ -143,6 +146,7 @@ h1 {
 
 #profile table {
     width:100%;
+    white-space: nowrap;
 }
 
 
@@ -152,6 +156,19 @@ h1 {
 
 #profile .name-left {
     text-align: right;
+}
+
+
+#profile .prof-row1 {
+    background-color: aqua;
+}
+
+#profile .prof-row2 {
+    background-color: #B696ED;
+}
+
+#profile .prof-row3 {
+    background-color: #F8F9FA;
 }
 
 
