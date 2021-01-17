@@ -165,15 +165,18 @@ h1 {
 
 #profile .prof-row1 {
     background-color: aqua;
-    margin-top: 50px;
+    margin-top: 80px;
+    height: 150px;
 }
 
 #profile .prof-row2 {
     background-color: #B696ED;
+    height: 150px;
 }
 
 #profile .prof-row3 {
     background-color: #F8F9FA;
+    height: 150px;
 }
 
 
