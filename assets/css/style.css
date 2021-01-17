@@ -245,11 +245,24 @@ h1 {
 #top {
     background-color: #212529;
     color: #F8F9FA;
+    padding-bottom: 80px;
 }
 
 
 #top h1 {
     padding: 50px 50px 50px;
+}
+
+#top .top-links {
+    background-color: #212529;
+    font-size: 20px;
+    border: none;
+
+}
+
+#top .you-pad {
+    padding: 20px;
+    background-color: aqua;
 }
 
 
