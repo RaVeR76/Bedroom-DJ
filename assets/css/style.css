@@ -267,6 +267,8 @@ footer {
     margin: 0;
 }
 
+
+
 .music-links {
     padding-top: 10px;
 }
@@ -289,6 +291,7 @@ footer {
 
 .music-links li a i:hover {
     background: #B696ED;
+    color: #212529;
 }
 
 .social-links {
@@ -323,8 +326,7 @@ footer {
 
 
 
-
 #footer-info {
-    padding: 20px;
+    padding: 40px;
     text-align: center;
 }
