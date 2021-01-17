@@ -139,6 +139,36 @@ h1 {
     background-color: azure;
 }
 
+.icon-wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.firstthree, .secondthree {
+    min-width: 225px;
+    box-sizing: border-box;
+}
+
+
+
+
+/*
+#profile .prof-list-pad1{
+    margin: auto;
+    display: block;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+#profile .prof-list-pad2  {
+    margin: auto;
+    display: block;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}*/
+
 
 
 /*--- Backstory Section ---*/
