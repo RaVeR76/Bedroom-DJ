@@ -131,10 +131,6 @@ h1 {
 }
 
 
-#profile .prof-prof {
-    background-color: aqua;
-}
-
 #profile .prof-quest {
     background-color: azure;
 }
@@ -142,10 +138,20 @@ h1 {
 
 #profile .tab-pad {
   padding: 50px;
+  font-size: 20px;
 }
+
+#profile table {
+    width:100%;
+}
+
 
 #profile .tab-pad tr td{
   padding: 20px;
+}
+
+#profile .name-left {
+    text-align: right;
 }
 
 
