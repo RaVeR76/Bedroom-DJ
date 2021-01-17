@@ -243,18 +243,19 @@ h1 {
 /*--- Top 10 Section ---*/
 
 #top {
-    background-color: #212529;
-    color: #F8F9FA;
+    background-color: #F8F9FA;
+    color: #212529;
     padding-bottom: 80px;
 }
 
 
 #top h1 {
     padding: 50px 50px 50px;
+    color: #212529;
 }
 
 #top .top-links {
-    background-color: #212529;
+    background-color: #F8F9FA;
     font-size: 20px;
     border: none;
 
