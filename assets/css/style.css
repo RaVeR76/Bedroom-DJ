@@ -230,11 +230,11 @@ h1 {
     overflow: hidden;
     opacity: 1;
 } */
-/*
+
 #back {
     background-color: #EB5C68;
-    opacity: .5;
-}*/
+    opacity: 1;
+}
 
 #back h1 {
     padding: 50px 50px 50px;
