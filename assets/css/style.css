@@ -3,9 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Titillium+Web:wght@300;400&display=swap');
 
 
-body {
-        background:none transparent;
-    }
 
 
 
@@ -233,11 +230,11 @@ h1 {
     overflow: hidden;
     opacity: 1;
 } */
-
+/*
 #back {
     background-color: #EB5C68;
-    opacity: .2;
-}
+    opacity: .5;
+}*/
 
 #back h1 {
     padding: 50px 50px 50px;
@@ -282,16 +279,18 @@ h1 {
     color: #F8F9FA;
     font-size: 20px;
     border: none;
+    border: none;
     text-decoration: none;
+}
+
+#top .underline a:hover {
+    color: #EB5C68;
 }
 
 #top .you-pad {
     padding: 20px;
 }
 
-#top div .underline a i:hover {
-    color: #B696ED;
-}
 
 
 
