@@ -402,11 +402,11 @@ footer {
 
 
 
-.music-links {
+.foot-links {
     padding-top: 10px;
 }
 
-.music-links li a i {
+.foot-links li a i {
     width: 32px;
     height: 32px;
     padding: 12px 0;
@@ -422,32 +422,7 @@ footer {
     -o-transition: all 0.35s ease-in-out;
 }
 
-.music-links li a i:hover {
-    background: #B696ED;
-    color: #212529;
-}
-
-.social-links {
-    padding-top: 10px;
-}
-
-.social-links li a i {
-    width: 32px;
-    height: 32px;
-    padding: 12px 0;
-    border-radius: 50%;
-    font-size: 18px;
-    line-height: 7px;
-    text-align: center;
-    color: #F8F9FA;
-    background: #212529;
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
-}
-
-.social-links li a:hover {
+.foot-links li a i:hover {
     background: #B696ED;
     color: #212529;
 }
@@ -456,11 +431,6 @@ footer {
 .smiley-pad {
     padding-bottom: 20px;
 }
-
-
-
-
-
 
 
 #footer-info {
