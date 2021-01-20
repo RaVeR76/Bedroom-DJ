@@ -71,7 +71,7 @@ h1 {
 }
 
 .nav-link .djlogo {
-    color: #212529;
+    color: #B696ED;
     cursor: pointer;
 }
 
@@ -80,9 +80,16 @@ h1 {
     color: #B696ED;
 }
 
+.djlogo:hover {
+    color: #EB5C68;
+}
+
+
 .nav-link:hover {
     color: #EB5C68;
 }
+
+
 
 .navbar-collapse {
     justify-content: flex-end;
