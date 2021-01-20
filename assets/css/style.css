@@ -130,9 +130,9 @@ h1 {
 }
 
 .column#caption:hover img {
-    -webkit-filter: sepia(90%);
-    -moz-filter: sepia(90%);
-    -o-filter: sepia(90%);   
+    -webkit-filter: hue-rotate(300deg);
+    -moz-filter: hue-rotate(300deg);
+    -o-filter: hue-rotate(300deg);   
 }
 /*--- Hero Transition Finished ---*/
 
