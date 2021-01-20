@@ -70,18 +70,18 @@ h1 {
     background: #F8F9FA;
 }
 
-.nav-link .djlogo {
+.djlogo {
     color: #B696ED;
     cursor: pointer;
+}
+
+.djlogo:hover {
+    color: #EB5C68;
 }
 
 .nav-link {
     margin-right: 1em !important;
     color: #B696ED;
-}
-
-.djlogo:hover {
-    color: #EB5C68;
 }
 
 
