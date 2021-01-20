@@ -143,6 +143,11 @@ h1 {
 /*--- Profile Section ---*/
 
 
+#profile {
+    background-color: #F8F9FA;
+    opacity: 1;
+}
+
 #profile h1 {
     padding: 50px 50px 50px;
     color: #212529;
@@ -174,20 +179,18 @@ h1 {
 
 
 #profile .prof-row1 {
-    background-color: aqua;
+    text-align: justify;
     margin-top: 80px;
     height: auto;
     min-height: 150px;
 }
 
 #profile .prof-row2 {
-    background-color: #B696ED;
     height: auto;
     min-height: 150px;
 }
 
 #profile .prof-row3 {
-    background-color: #F8F9FA;
     height: auto;
     min-height: 150px;
 }
