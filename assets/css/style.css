@@ -246,20 +246,31 @@ h1 {
 } */
 
 #back {
-    background-color: #EB5C68;
+    background-color: #F8F9FA;
     opacity: 1;
 }
 
 #back h1 {
+    color: #212529;
     padding: 50px 50px 50px;
 }
 
 
-.back-pad {
-    height: 700px;
+#back .back-pad {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    text-align: justify;
 }
 
 
+#back p {
+    font-size: 16px;
+    line-height: 26px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
 
 
 /*--- Top 10 Section ---*/
