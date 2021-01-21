@@ -256,15 +256,16 @@ h1 {
 }
 
 
-#back .back-pad {
+#back .back {
     display: flex;
     margin: auto;
     justify-content: center;
     text-align: justify;
+    padding: 2%;
 }
 
 
-#back p {
+#back .back p {
     font-size: 16px;
     line-height: 26px;
     word-wrap: break-word;
