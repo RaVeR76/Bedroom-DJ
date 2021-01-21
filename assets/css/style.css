@@ -109,6 +109,7 @@ h1 {
 }
 
 .column#caption .text {
+    filter:invert(100%);
 	position: absolute;
     top: 40%;
     left: 24%;
@@ -118,14 +119,9 @@ h1 {
     transition: all 2.0s ease;			
 }
 
-.column#caption .text h1 {	
-    font-family: "Lato", sans-serif;	
-    margin: 0;		
-	color: #F8F9FA;
-}
 
 .column#caption:hover .text {
-	opacity: .8;
+    opacity: .8;
 
 }
 
