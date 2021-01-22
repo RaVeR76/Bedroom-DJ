@@ -169,55 +169,15 @@ h1 {
 }
 
 
-  
-
-
 #profile h3 {
     padding: 30px;
 }
 
-
-#profile .tab-pad {
-  padding: 50px 0px;
-  font-size: 20px;
+.top-pad {
+    padding-top: 70px;
 }
 
-#profile table {
-    width:100%;
-    white-space: nowrap;
-}
-
-
-#profile .tab-pad tr td{
-  padding: 20px;
-}
-
-#profile .name-left {
-    text-align: right;
-}
-
-
-#profile .prof-row1 {
-    text-align: justify;
-    margin-top: 80px;
-    height: auto;
-    min-height: 150px;
-}
-
-#profile .prof-row2 {
-    height: auto;
-    min-height: 150px;
-}
-
-#profile .prof-row3 {
-    height: auto;
-    min-height: 150px;
-}
-
-
-
-
-.card {
+.about-me {
     position: relative;
     display: flex;
     flex-direction: column;
@@ -231,73 +191,18 @@ h1 {
     font-size: 20px;
 }
 
-
-.card-body {
+.about-me-body {
     flex: 1 1 auto;
     min-height: 1px;
     padding: 1rem;
 }
 
-
-
-
-
-
-
-
-/*
-
-.press {
-    display: block;  
-    padding: 0;      
-    margin: 0;       
-    width: 90%;     
+#profile .craic-style {
+    text-align: justify;
+    height: auto;
+    min-height: 150px;
 }
 
-.press li {
-    display: inline-block; 
-    width: 90%;            
-    text-align: center;    
-    min-width: auto;
-}
-*/
-
-
-
-
-
-
-
-/*
-.icon-wrapper {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-.firstthree, .secondthree {
-    min-width: 225px;
-    box-sizing: border-box;
-}*/
-
-
-
-
-/*
-#profile .prof-list-pad1{
-    margin: auto;
-    display: block;
-    width: 50%;
-    padding: 10px;
-    text-align: center;
-}
-
-#profile .prof-list-pad2  {
-    margin: auto;
-    display: block;
-    width: 50%;
-    padding: 10px;
-    text-align: center;
-}*/
 
 
 
