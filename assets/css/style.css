@@ -161,9 +161,11 @@ h1 {
 		inset 0 0 5px rgba(235, 92, 104, 0.5),
 		inset -285px 0 35px #F8F9FA;
 	border-radius: 0 10px 0 10px;
-    background: #fff url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/922173_rave-concert-b-w-lights-d-j-crowd-wallpapers-1920-1200-125443_2560x1600_h.jpg") repeat center left;
+    background: #fff url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/922173_rave-concert-b-w-lights-d-j-crowd-wallpapers-1920-1200-125443_2560x1600_h.jpg") repeat center left ; -webkit-transform: scaleX(-1);
     background-size: contain;
     opacity: .6;
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
 }
 
 
@@ -330,10 +332,6 @@ h1 {
 
 /*--- Tour Section ---*/
 
-
-#tour h1 {
-    padding: 50px 50px 50px;
-}
 
 #tour {
     background-image: url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/Neon%20Banner%202.jpg");
