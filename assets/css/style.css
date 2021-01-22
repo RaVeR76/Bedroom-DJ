@@ -319,10 +319,31 @@ h1 {
 
 #top .you-pad {
     padding: 20px;
+    align-content: center;
+    
+}
+/*
+.iframe-outer, .iframe-inner {
+    height: 300px;
+    width: 300px;
 }
 
+.iframe-outer {
+    display: inline-block;
+    position: relative;
+}
 
+.iframe-inner {
+    overflow: hidden;
+    border-radius: 5000px;
+    position: absolute;
+}
 
+    .iframe-inner iframe {
+        height: 100%;
+        width: 100%;
+    }
+*/
 
 
 
