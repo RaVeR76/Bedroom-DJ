@@ -170,6 +170,7 @@ h1 {
 
 
 #profile h3 {
+    background-image: url("assets/images/dj-silhouette-purps.png");
     padding: 30px;
 }
 
@@ -201,6 +202,22 @@ h1 {
     text-align: justify;
     height: auto;
     min-height: 150px;
+}
+
+
+
+#profile .craic-style p {
+    font-size: 16px;
+    line-height: 26px;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
+
+ .about-me-img {
+    width: 100px;
+    height: 100px;
+
 }
 
 
