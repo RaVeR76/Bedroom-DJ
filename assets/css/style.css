@@ -66,6 +66,8 @@ h1 {
 
 
 
+
+
 /*--- navigation bar ---*/
 
 
@@ -149,7 +151,7 @@ h1 {
 	margin: 1em 0 0.5em 0;
 	font-weight: 600;
 	font-family: 'Lato', sans-serif;
-	text-align: right;  
+	text-align: left;  
 	font-size: 36px;
 	line-height: 40px;
 	padding: 15px 15px 15px 15px;
@@ -157,14 +159,14 @@ h1 {
 	box-shadow: 
 		inset 0 0 0 1px rgba(182,150,237, 0.4), 
 		inset 0 0 5px rgba(235, 92, 104, 0.5),
-		inset -285px 0 35px #F8F9FA;
+		inset 285px 0 35px #F8F9FA;
 	border-radius: 0 10px 0 10px;
-    background: #fff url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/922173_rave-concert-b-w-lights-d-j-crowd-wallpapers-1920-1200-125443_2560x1600_h.jpg") repeat center left ; -webkit-transform: scaleX(-1);
+    background: #fff url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/922173_rave-concert-b-w-lights-d-j-crowd-wallpapers-1920-1200-125443_2560x1600_h.jpg") repeat center left ;
     background-size: contain;
-    opacity: .6;
-    -webkit-transform: scaleX(-1);
-    transform: scaleX(-1);
+    opacity: 1;
 }
+
+
 
 
 #profile h3 {
@@ -273,7 +275,7 @@ h1 {
 */
 
 
-
+/* Code to allow the background image to be opacque but not the content plus image disappears on small screens */
 
 /* Show in Large desktops and laptops */
 
