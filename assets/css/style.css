@@ -116,19 +116,26 @@ h1 {
 /*------------------------ Hero Section -----------------------*/
 
 
+
+
+
+
 #hero-image {
     background-image: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/hero-bush4-1900.jpg");
-    height: 80%; 
+    height: 90%; 
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
+
+
+
 #hero-image .hero-text {
     filter:invert(100%);
 	position: absolute;
-    top: -10%;
-    left: -10%;
+    top: 60%;
+    left: 75%;
 	transform: translate(-50%, -50%);
 	z-index: 10;
     opacity: 0;
@@ -139,16 +146,18 @@ h1 {
 
 #hero-image:hover {
     background-image: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/hero-bush5-1900.jpg");
+    height: 90%;
     transition: all 3.0s ease;
     -webkit-filter: grayscale(100%);
     -moz-filter: grayscale(100%);
     -o-filter: grayscale(100%);   
 }
-
-#hero-image:hover .hero-text {
+/*
+#hero-image:hover .hero-text .img {
+    height: 128px;
     opacity: 1;
 
-}
+}*/
 
 
 
