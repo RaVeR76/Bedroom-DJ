@@ -142,10 +142,7 @@ h1 {
 /*--- Profile Section ---*/
 
 
-#profile {
-    background-color: #F8F9FA;
-    opacity: 1;
-}
+
 
 #profile h1 {
 	margin: 1em 0 0.5em 0;
@@ -170,7 +167,6 @@ h1 {
 
 
 #profile h3 {
-    background-image: url("assets/images/dj-silhouette-purps.png");
     padding: 30px;
 }
 
@@ -184,7 +180,7 @@ h1 {
     flex-direction: column;
     min-width: 0;
     word-wrap: break-word;
-    background-color: #F8F9FA;
+    background-color: transparent;
     background-clip: border-box;
     border: 0 solid rgba(0,0,0,.125);
     border-radius: .25rem;
@@ -207,18 +203,56 @@ h1 {
 
 
 #profile .craic-style p {
+    opacity: 1;
     font-size: 16px;
     line-height: 26px;
     word-wrap: break-word;
     overflow-wrap: break-word;
     hyphens: auto;
 }
-
+/*
  .about-me-img {
     width: 100px;
     height: 100px;
 
+}*/
+/*
+#profile .image {
+    background-image: url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/dj-silhouette-purps.png");
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  /*background-position: center;
+    width: 100%;*//*
+    overflow: hidden;
+    padding-bottom: 80px;
+    background-color: #F8F9FA;
+    opacity: .5;
+}*/
+
+
+.image {
+    position: relative; 
+    height: 100%;
+    width: 100%;
+    display: flex;
+   /* align-items: center;
+    justify-content: center;*/
 }
+
+.image::before {    
+      content: "";
+      background-image: url('https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/dj-silhouette-purps.png');
+      background-size: cover;
+      position: absolute;
+      top: -400px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 0.2;
+}
+
+
 
 
 
