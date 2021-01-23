@@ -107,8 +107,54 @@ h1 {
 
 /*------------------------ Hero Section -----------------------*/
 
-/*--- Hero Transition Started ---*/
 
+#hero-image {
+  /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/%E2%80%94Pngtree%E2%80%94dj%20music%20festival%20passion%20burning_1109334.jpg");
+
+  /* Set a specific height */
+  height: 50em;
+
+  /* Position and center the image to scale nicely on all screens */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+#hero-image .text {
+    filter:invert(100%);
+	position: absolute;
+    top: 40%;
+    left: 24%;
+	transform: translate(-50%, -50%);
+	z-index: 10;
+    opacity: 0;
+    transition: all 2.0s ease;			
+}
+
+
+
+#hero-image:hover .text {
+    opacity: .8;
+
+}
+
+#hero-image:hover {
+    transition: all 3.0s ease;
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -o-filter: grayscale(100%);   
+}
+
+
+
+
+
+
+
+/*--- Hero Transition Started ---*/
+/*
 .column#caption {
 	position: relative;
 }
@@ -135,7 +181,7 @@ h1 {
     -webkit-filter: grayscale(100%);
     -moz-filter: grayscale(100%);
     -o-filter: grayscale(100%);   
-}
+}*/
 /*--- Hero Transition Finished ---*/
 
 
