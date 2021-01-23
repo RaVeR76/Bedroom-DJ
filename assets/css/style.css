@@ -9,8 +9,9 @@
 
 /*--- Colours ---*/
 
-
-
+#profile {
+    background-color: #F8F9FA;
+}
 
 
 /*--- Special paddings / margins / text ---*/
@@ -36,7 +37,7 @@ h1 {
     font-family: "Lato400", sans-serif;
     font-weight: 700;
     text-transform: uppercase;
-    color: #fafafa;
+    color: #F8F9FA;
 }
 
 #profile h3{
@@ -49,12 +50,12 @@ h1 {
 
 #tour h3 {
     font-family: "Lato", sans-serif;
-    color: #fafafa;
+    color: #F8F9FA;
 }
 
 #tour h4 {
     font-family: "Titillium Web", sans-serif;
-    color: #fafafa;
+    color: #F8F9FA;
 }
 
 #contact h1 {
@@ -230,17 +231,12 @@ h1 {
     opacity: .5;
 }*/
 
-
-.image {
+/*
+.pro-image {
     position: relative; 
-    height: 100%;
-    width: 100%;
-    display: flex;
-   /* align-items: center;
-    justify-content: center;*/
 }
 
-.image::before {    
+.pro-image::before {    
       content: "";
       background-image: url('https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/dj-silhouette-purps.png');
       background-size: cover;
@@ -251,6 +247,98 @@ h1 {
       left: 0px;
       opacity: 0.2;
 }
+
+@media (max-width:629px) {
+  .pro-image::before {
+    background-image: none;
+    opacity: 0;
+  }
+}*/
+
+/*
+.pro-image {
+  background-repeat: no-repeat ;
+  background-image: url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/dj-silhouette-purps.png");
+  background-attachment: relative;
+  background-position: left, right
+}
+/**
+ * Remove background if window width is 6OOpx or less 
+ *//*
+@media all and ( max-width: 600px ) {
+  .pro-image {
+    background: none;
+  }
+}
+*/
+
+
+
+
+/* Show in Large desktops and laptops */
+
+
+@media (min-width: 1200px) {
+
+    .bgimg {
+    position: relative; 
+}
+
+.bgimg::before {
+    content: "";
+    background-image: url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/dj-silhouette-purps.png");
+    background-size: cover;
+      position: absolute;
+      top: -400px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 0.2;
+    }
+
+}
+
+/*Hide in Other Small Devices */
+
+
+/* Landscape tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+
+      .bgimg {
+        background-image: none;
+    }
+
+}
+
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+
+          .bgimg {
+        background-image: none;
+    }
+
+}
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+
+          .bgimg {
+        background-image: none;
+    }
+
+}
+
+/* Portrait phones and smaller */
+@media (max-width: 480px) {
+
+          .bgimg {
+        background-image: none;
+    }
+
+}
+
+
+
 
 
 
