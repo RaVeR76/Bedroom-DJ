@@ -514,10 +514,10 @@ h1 {
 }
 
 #top .you-pad {
-    position: relative;
-    padding: 20px;
-    align-content: center;
-    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.3;
 }
 
 
