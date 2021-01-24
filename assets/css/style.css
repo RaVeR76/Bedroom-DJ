@@ -117,9 +117,6 @@ h1 {
 
 
 
-
-
-
 #hero-image {
     background-image: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/hero-bush4-1900.jpg");
     height: 90%; 
@@ -127,6 +124,20 @@ h1 {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+ .hero-comment {
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+
+
+
+
 
 .image-size {
         height: 250px;
