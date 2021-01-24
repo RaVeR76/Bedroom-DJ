@@ -128,18 +128,18 @@ h1 {
     background-size: cover;
 }
 
-
+.image-size {
+        height: 250px;
+        filter:invert(100%);
+        opacity: 0;
+       
+}
 
 
 #hero-image .hero-text {
-    filter:invert(100%);
 	position: absolute;
-    top: 60%;
-    left: 75%;
-	transform: translate(-50%, -50%);
-	z-index: 10;
-    opacity: 0;
-    transition: all 2.0s ease;			
+    top: 55%;
+    left: 75%;			
 }
 
 
@@ -152,12 +152,14 @@ h1 {
     -moz-filter: grayscale(100%);
     -o-filter: grayscale(100%);   
 }
-/*
-#hero-image:hover .hero-text .img {
-    height: 128px;
-    opacity: 1;
 
-}*/
+#hero-image:hover .hero-text .image-size {
+    transform: translate(-50%, -50%);
+	z-index: 10;
+    transition: all 2.0s ease;
+    opacity: 1;	
+
+}
 
 
 
