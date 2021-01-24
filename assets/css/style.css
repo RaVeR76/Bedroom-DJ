@@ -24,11 +24,18 @@ body, html {
 
 /*--- Special paddings / margins / text ---*/
 
-
-
 .inline-block {
     display: inline-block;
 }
+
+
+.head-padding {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+
+
 
 #footer-info h5 {
     font-family: "Lato", sans-serif;
@@ -417,9 +424,9 @@ h1 {
 
 
 
-/*--- Backstory Section ---*/
+/*--- Memory Section ---*/
 
-#back h1 {
+#memory h1 {
 	margin: 1em 0 0.5em 0;
 	font-weight: 600;
 	font-family: 'Lato', sans-serif;
@@ -438,20 +445,12 @@ h1 {
     opacity: 1;
 }
 
-
-
-#back {
+#memory {
     background-color: #F8F9FA;
     opacity: 1;
 }
-/*
-#back h1 {
-    color: #212529;
-    padding: 50px 50px 50px;
-}*/
 
-
-#back .back {
+#memory .mem-text {
     display: flex;
     margin: auto;
     justify-content: center;
@@ -460,7 +459,7 @@ h1 {
 }
 
 
-#back .back p {
+#memory .mem-text p {
     font-size: 16px;
     line-height: 26px;
     word-wrap: break-word;
