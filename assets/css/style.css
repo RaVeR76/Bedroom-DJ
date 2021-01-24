@@ -125,27 +125,6 @@ h1 {
     background-size: cover;
 }
 
- .hero-comment {
-  position: absolute;
-  bottom: 0;
-  background: rgb(0, 0, 0); /* Fallback color */
-  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
-  color: #f1f1f1;
-  width: 100%;
-  padding: 20px;
-}
-
-
-
-
-
-.image-size {
-        height: 250px;
-        filter:invert(100%);
-        opacity: 0;
-       
-}
-
 
 #hero-image .hero-text {
 	position: absolute;
@@ -171,6 +150,56 @@ h1 {
     opacity: 1;	
 
 }
+
+#hero-image:hover .hero-comment{
+    opacity: 0;
+}
+
+
+
+.image-size {
+        height: 250px;
+        filter:invert(100%);
+        opacity: 0;      
+}
+
+
+.hero-comment {
+     display: block;
+  margin-left: auto;
+  margin-right: 10%;
+  width: auto;
+/*  position: right;*/
+ /*  top: 30%;
+  left: 55%;
+ /*  background: rgb(0, 0, 0); /* Fallback color */
+ /* background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #F8F9FA;
+  padding: 20px;
+  text-align: center;
+}
+
+
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+
+    .hero-comment {
+        position: absolute; /* Position the background text */
+        bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+        background: rgb(0, 0, 0); /* Fallback color */
+        background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+        color: #f1f1f1; /* Grey text */
+        width: 100%; /* Full width */
+        padding: 20px; /* Some padding */
+        word-wrap: break-word;
+    }
+
+}
+
+
+
+
 
 
 
