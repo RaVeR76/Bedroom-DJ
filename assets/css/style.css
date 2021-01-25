@@ -110,11 +110,11 @@ h1 {
 }
 
 .custom-toggler.navbar-toggler {
-  border-color: #B696ED;
+  border-color: rgb(182, 150, 237);
 } 
 
 .custom-toggler.navbar-toggler:hover {
-  border-color: #B696ED;
+  border-color: rgb(182, 150, 237);
 } 
 
 .navbar-toggler:focus,
@@ -124,14 +124,13 @@ h1 {
     box-shadow: none;
 }
 
-
 .navbar-collapse {
     justify-content: flex-end;
 }
 
 .fixed-top{
    position: sticky;     /*-- Added this because when the screen was collasped, the activation of the navbar burger menu icon would cause drop down menu to overlap my first section --*/ 
-}   
+   }   
 
 
 /*------------------------ Hero Section -----------------------*/
@@ -596,7 +595,7 @@ h1 {
 	font-size: 36px;
 	line-height: 40px;
 	padding: 15px 15px 15px 15px;
-	color: #212529;
+	color: #EB5C68;
 	box-shadow: 
 		inset 0 0 0 1px rgba(182,150,237, 0.4), 
 		inset 0 0 5px rgba(235, 92, 104, 0.5),
