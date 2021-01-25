@@ -440,7 +440,11 @@ h1 {
     opacity: 1;
 }
 
-#tour div{
+#tour .tour-head-pads {
+    padding: 10px 50px 100px;
+}
+
+#tour .tour-pads{
     text-align: center;
     padding: 50px 50px 100px;
 } 
