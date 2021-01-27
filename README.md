@@ -1,13 +1,8 @@
-<!-- <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;"> -->
+# DJ Snooze-A-Lot #
+Who is he, I hear you ask. How about ....   
+***Irelands longest serving bedroom DJ***
 
-<img src="https://i.imgur.com/XgPVkpL.jpg?3" style="margin: 0;">
-
-<!----- Wee Test Pic For The Craic --->
-
-Welcome USER_NAME,
-
-
-Below is the main contents for starters just to get the hang of this README malarky & the pic above is a tester too !!!
+![DJ Snooze-A-Lot](https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/hero-bush4-1900.jpg)
 
 
 # Contents
@@ -190,6 +185,13 @@ I realised this was the correct direction when designing my wireframes and also 
 # Testing
 
 # Bugs
+
+Before October 2020 the only encounter I had with websites was viewing them as a so called 'user'.
+Fast forward 3 months and I'm fairly close to handing in my first MS1 project and therefore my first ever website .... unbelieveable.
+I knew it was gonna be tough at times due to my inexperience but me, being stubborn and persistant, kept going & learning everyday.
+One day I sat for 2 to 3 hours trying to figure out why my code ain't working .... fecking TYPO !!! But you learn from such dishearting experiences ha ha, believe me :)
+
+Anyway, it's all about bugs 
 
 # Deployment
 
