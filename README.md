@@ -33,7 +33,7 @@ Who is he, I hear you ask. How about ....
 
 
 # User Experience (UI)
-
+---
 
 ## Project Goals
 
@@ -142,7 +142,7 @@ Below is an image of the chosen colours .....
 
 
 # Wireframes
-
+---
 The software that I used for my **wireframes** was [***Balsamiq***](https://balsamiq.com/).
 This was the first time I used such software so it was a whole new learning curve for me. 
 The software allows you design the basic layout of your website on devices such as a desktop, tablet and mobile.
@@ -161,14 +161,33 @@ I realised this was the correct direction when designing my wireframes and also 
 
 ### What didn't make the cut
 
+# TBC
 
 # Features
+---
+Features that have been implemented into my website are :
 
 
+* A *navbar* to enable easy navigation for the user to any section of their desired choice.
+* An aesthetically pleasing visual experience as they scroll through my website.
+* Social and music links located within the footer.
+* Some classic oldskool rave tunes from the early 90s on display, for joyful and heart pumping reminiscence purposes :)
+* Some humour to enlighten their day.
+* Finally, a ***hidden link*** somewhere on the webpage, to one of my special oldskool mixes, but where ... who knows (well me actually ha ha).
+
+Features that could be implemented into my website possibly in the future, could be :
+
+* A **My Mixes** section .... once I get off my @ss and do more of them (although I'm doing this wee course so won't have time for a while)
+* With more experience, I'd like a bit more animation added to make it more interactive.
+* Maybe a CD or Rave pack selling section ... make a few quid and buy a better laptop with a bigger screen (eyes are killing me here like).
+* More raves stories but not all mine, maybe users could attribute to like in a comments section or in a forum, as Rave Stories are the ulimate stories because we got up to all sorts of mad stuff.
+* Obviously, new Tour Dates as in a few months the current ones will have expired and I will have wrecked bedrooms all around the world.
+
+I know this is my first site 
 
 
 # Technologies Utilised
-
+---
 ### Languages
 
 - [HTML](https://en.wikipedia.org/wiki/HTML)
@@ -183,9 +202,11 @@ I realised this was the correct direction when designing my wireframes and also 
 - [Google Fonts](https://fonts.google.com/)
 
 # Testing
+---
+# TBC
 
 # Bugs
-
+---
 Before October 2020 the only encounter I had with websites was viewing them as a so called 'user'.
 Fast forward 3 months and I'm fairly close to handing in my first MS1 project and therefore my first ever website .... unbelieveable.
 I knew it was gonna be tough at times due to my inexperience but me, being stubborn and persistant, kept going & learning everyday.
@@ -261,7 +282,7 @@ It worked but just be careful everyone.
 
 ## The Validation & Testing Journey
 
-TBC
+# TBC
 
 
 
@@ -289,5 +310,19 @@ The main points he did mention that I had to fix were -
 
 
 # Deployment
-
+---
 # Credits
+---
+I know this is my first site and I had such an experience from start to finish i can assure you of that.  
+I was up ... I was down ... Somedays I felt like Neo from the Matrix ... Other days I had serious Imposter Syndrome, like why the feck am I doing this because I know nothing about coding.
+I would stare a bit of code and think what does that actually mean .... I don't get it.  
+I really struggled with the Bootstrap grid and the fact it's Mobile First.   
+Man, did that fry my head for ages.....s  
+But you know what, with patience & devotion, I grinded away most nights and weekends, learning everyday and researching how to make things you want to happen in a website. 
+Watching back the Code Institutes lessons again, numerous YouTube videos on everything HTML or CSS and delving into the dark corners of the Coding World to figure out why my code wasn't working they way I had anticapated
+
+All in all, it's been one of the best expiences of my life which is a high accolade to be honest because remember .... 
+I was a RaVeR .... who had a whole lot of highs in the 90s for sure ;)
+
+Anyway being a Bedroom DJ, I deffo need to do a few shout outs to people and various places of resouced material.
+
