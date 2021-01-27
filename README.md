@@ -191,8 +191,32 @@ Fast forward 3 months and I'm fairly close to handing in my first MS1 project an
 I knew it was gonna be tough at times due to my inexperience but me, being stubborn and persistant, kept going & learning everyday.
 One day I sat for 2 to 3 hours trying to figure out why my code ain't working .... fecking TYPO !!! But you learn from such dishearting experiences ha ha, believe me :)
 
-Anyway, it's all about bugs 
+Anyway, it's all about bugs and not the wee bed bugs seeing I'm a Bedroom DJ !!!
 
+I'll be honest, I deffo thought I would have more bugs and issues than I actually had, seeing I'm a Coding NOOB.
+The majority of bugs were basically as mentioned above, typos or syntax errors or a missing end **div**.
+
+So what bugs or issues did I find ....
+
+### Development Journey
+
+**Bug 1** 
+
+On my first lonesome outing in the world of coding .... I fecked up my **'read me'** file and had to start again lol !  
+
+So I added a funny pic, added loads of read-me content, added my index.html and started this too. Sorry, at this point 
+I was only learning and did not realise it was in your best interest to ***git commit*** regularly.   
+Onwards thy storyteller .... I then did a *git status* , not really paying attention to what it said ny the way, followed but a *git add*.
+Finally a *git commit* saying "Initial commit, read me started, index.html created & started".   
+ All good I'm thinking to myself :), let's see *git status* ....  
+
+***Your branch and ' origin/master' have diverged, and have 1 and 1 different commits each, respectively ! (use git pull ... etc)***   
+
+Well I didn't see the *git pull* and in a panic I typed *git push* and **ENTER !**  
+Talk about the sh1t hitting the fan on that one for a wee newbie like me. Truthfully, I couldn't sort it so did a *git reset -- hard orgin/master* which seemed like the best course
+of action according to the internet. I lost everything I had done that day as it went back to the orginal code which was nothing tbh.
+
+I figured out that it was because I was logging into Gitpod from my Github repository, so therefore opening a new Gitpod workspace each time. This created like 3 or 4 workspaces with the same name
 # Deployment
 
 # Credits
