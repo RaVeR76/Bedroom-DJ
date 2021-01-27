@@ -196,9 +196,11 @@ Anyway, it's all about bugs and not the wee bed bugs seeing I'm a Bedroom DJ !!!
 I'll be honest, I deffo thought I would have more bugs and issues than I actually had, seeing I'm a Coding NOOB.
 The majority of bugs were basically as mentioned above, typos or syntax errors or a missing end **div**.
 
-So what bugs or issues did I find ....
+So what bugs or issues did I find ...
+  
+  
 
-### Development Journey
+## Development Journey
 
 **Bug 1** 
 
@@ -216,7 +218,33 @@ Well I didn't see the *git pull* and in a panic I typed *git push* and **ENTER !
 Talk about the sh1t hitting the fan on that one for a wee newbie like me. Truthfully, I couldn't sort it so did a *git reset -- hard orgin/master* which seemed like the best course
 of action according to the internet. I lost everything I had done that day as it went back to the orginal code which was nothing tbh.
 
-I figured out that it was because I was logging into Gitpod from my Github repository, so therefore opening a new Gitpod workspace each time. This created like 3 or 4 workspaces with the same name
+I think I figured out why it happened a few days later, and it was because I was logging into Gitpod from my Github repository, so therefore creating a new Gitpod workspace each time. 
+There were like 3 or 4 workspaces with the same name and I must've been working on one different from the origin. Anyway, that's my theory & I'm sticking to it.
+(it never happened again anyway and I deleted the additional workspaces in my Gitpod)
+
+
+**Bug 2 Or Not 2 Bug .... That Is The Question ....**
+
+
+In my Top 10 section I was looking to add iframes that played upon selection. 
+I made this happen by using the **embed** selection from the share menu within the tunes youtube page.
+I just copied the link part and pasted this into each link in my html because I was using one iframe to play them all.
+
+Although I could get them to autoplay the tunes, they were always muted. I tried various options and methods, looking into YouTubes API for answers.
+Unfortunately as of 2018 the [Autoplay Policy Changed](https://developers.google.com/web/updates/2017/09/autoplay-policy-changes) and you could only autoplay now when muted.
+There are some exceptions when this will work unmuted but this depends on the *the user* clicking on the links and *their settings.
+You can read about it in the previous link.
+
+
+**Bug 3**
+
+I used a table for listing my About Me classification questions and answers because I thought this was the best way to display it and maintain vertically straight alignment.
+
+Wrong ... on smaller screens it was all over the place and looked awful.
+My mentor suggested just using rows, columns and divs, so I looked at some Bootstrap tutorials and best practices for this online for enlightenment.
+
+
+
 # Deployment
 
 # Credits
