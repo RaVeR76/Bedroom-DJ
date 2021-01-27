@@ -12,6 +12,10 @@ body, html {
     background-color: transparent;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 
 /*--- Colours ---*/
 
@@ -138,7 +142,7 @@ h1 {
 
 
 #hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/hero-bush4-1900.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("/assets/images/hero-bush4-1900.jpg");
     height: 90%; 
     background-position: center;
     background-repeat: no-repeat;
