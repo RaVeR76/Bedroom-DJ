@@ -142,7 +142,7 @@ h1 {
 
 
 #hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("/assets/images/hero-bush4-1900.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("../images/snooze-hero-face.jpg");
     height: 90%; 
     background-position: center;
     background-repeat: no-repeat;
@@ -159,7 +159,7 @@ h1 {
 
 
 #hero-image:hover {
-    background-image: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/hero-bush5-1900.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("../images/snooze-hero-side.jpg");
     height: 90%;
     transition: all 3.0s ease;
     filter: grayscale(100%);
@@ -255,7 +255,7 @@ h1 {
 		inset 0 0 5px rgba(235, 92, 104, 0.5),
 		inset 220px 0 35px #F8F9FA;
 	border-radius: 0 10px 0 10px;
-    background: #F8F9FA url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/922173_rave-concert-b-w-lights-d-j-crowd-wallpapers-1920-1200-125443_2560x1600_h.jpg") repeat center left ;
+    background: #F8F9FA url("../images/rave-crowd-pic.jpg") repeat center left ;
     background-size: contain;
     opacity: 1;
 }
@@ -326,7 +326,7 @@ h1 {
 		inset 0 0 5px rgba(235, 92, 104, 0.5),
 		inset 310px 0 35px #F8F9FA;
 	border-radius: 0 10px 0 10px;
-    background: #F8F9FA url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/922173_rave-concert-b-w-lights-d-j-crowd-wallpapers-1920-1200-125443_2560x1600_h.jpg") repeat center left ;
+    background: #F8F9FA url("../images/rave-crowd-pic.jpg") repeat center left ;
     background-size: contain;
     opacity: 1;
 }
@@ -357,7 +357,7 @@ h1 {
 /*--- Top 10 Section ---*/
 
 #top {
-    background-image: url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/FB_IMG_1540053778461.jpg");
+    background-image: url("../images/kellys-raver-pic.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: 100% 110%;
@@ -416,7 +416,7 @@ h1 {
 
 
 #tour {
-    background-image: url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/Neon%20Banner%202.jpg");
+    background-image: url("../images/neon-banner.jpg");
     background-repeat: no-repeat;
     background-size: 100% 120%;
     background-position: center;
@@ -478,7 +478,7 @@ h1 {
 		inset 0 0 5px rgba(235, 92, 104, 0.5),
 		inset 550px 0 35px #F8F9FA;
 	border-radius: 0 10px 0 10px;
-    background: #F8F9FA url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/922173_rave-concert-b-w-lights-d-j-crowd-wallpapers-1920-1200-125443_2560x1600_h.jpg") repeat center left ;
+    background: #F8F9FA url("../images/rave-crowd-pic.jpg") repeat center left ;
     background-size: contain;
     opacity: 1;
 }
@@ -604,7 +604,7 @@ footer {
 
     .bgimg::before {
         content: "";
-        background-image: url("https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/dj-silhouette-purps.png");
+        background-image: url("../images/dj-silhouette-purps.png");
         background-size: cover;
         position: absolute;
         top: -400px;
