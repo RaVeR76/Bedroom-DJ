@@ -327,3 +327,28 @@ I was a RaVeR .... who had a whole lot of highs in the 90s for sure ;)
 
 Anyway being a Bedroom DJ, I deffo need to do a few shout outs to people and various places of resouced material.
 
+**Text used within the website**
+
+None because it's all my story, yeoooo
+
+**Images used within my website**
+
+Hero Image 
+
+Section Heading Long Image
+
+Section Headings Vinyl Image
+
+Profile Section background
+
+Best Memory Section Image
+
+Top 10 Section Background Image
+
+Footer Section Smiley Image
+
+
+**Special Shout Out**
+
+
+
