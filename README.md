@@ -200,7 +200,7 @@ So what bugs or issues did I find ...
   
   
 
-## Development Journey
+## The Development Journey
 
 **Bug 1** 
 
@@ -241,7 +241,50 @@ You can read about it in the previous link.
 I used a table for listing my About Me classification questions and answers because I thought this was the best way to display it and maintain vertically straight alignment.
 
 Wrong ... on smaller screens it was all over the place and looked awful.
-My mentor suggested just using rows, columns and divs, so I looked at some Bootstrap tutorials and best practices for this online for enlightenment.
+My mentor suggested just using rows, columns and divs within Bootstrap, so I looked at some Bootstrap tutorials and best practices for this online for enlightenment.
+I am very happy with the way it turned out compared to using the table method.
+
+
+**Bug 4**
+
+One day my CSS code wouldn't work no matter what I tried and I spent an hour trying evrything.  
+In the end I had to reboot my laptop and fortunately it all became good again.
+
+**Bug 5**
+
+Another day I started my Gitpod workspace and some of the index html was missing. The code at the bottom had just vanished from the previous night.
+A part of my footer, my end scripts, my end body tag and my end html tag were no longer where thety should be.  
+I have no answer to why this happened if the truth be told but luckily enough I was always backing my code up in Notepad 
+so I simply copied and pasted the missing html code.
+It worked but just be careful everyone.
+
+
+## The Validation & Testing Journey
+
+TBC
+
+
+
+## The Mentor Code Review Journey
+
+It's time to panic when your mentor tells you to grab a pen and paper then take a seat ha ha, but it wasn't as bad as I thought it was going to be.
+He went fairly easy on me saying I just need to tidy up my HTML and CSS as it was pretty much a mess.
+The main points he did mention that I had to fix were - 
+
+* Put all **headers** within the *rows* as I started my sections, container then my headers then the row, cols and content.
+
+* On all **'a' tags** remove *span class="sr-only"* and replace with the *aria-label* format.
+
+* Add *validation* to my contact form.
+
+* No pixels on scales - use REM! (which I still have to repair at this moment in time).
+
+* Tidy CSS up and simplify my code, to reduce the size. I had similar styles being applied to each section so I added one piece of code that could apply it the all the common areas. Simplicity is key.
+
+
+
+
+
 
 
 
