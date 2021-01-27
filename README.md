@@ -1,6 +1,7 @@
 # DJ Snooze-A-Lot #
 Who is he, I hear you ask. How about ....   
-***Irelands longest serving bedroom DJ***
+***Irelands longest serving Bedroom DJ !!!***  
+**He'll be coming in a ..... I mean, coming to a bedroom near you ;)**
 
 ![DJ Snooze-A-Lot](https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/hero-bush4-1900.jpg)
 
