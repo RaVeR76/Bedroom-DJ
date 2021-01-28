@@ -37,6 +37,18 @@ html{
 }
 
 
+.vinyl-size {
+    height: 38px;
+    width: 30px;
+    padding-bottom:5px;
+}
+
+.smiley-size {
+    height: 30px;
+    width: 30px;
+}
+
+
 #footer-info h5 {
     font-family: "Lato", sans-serif;
     text-transform: uppercase;
