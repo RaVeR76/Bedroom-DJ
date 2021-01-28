@@ -496,7 +496,17 @@ h1 {
 }
 
 
+.form-group {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
+
+.submit-style {
+    margin: 0 auto;
+    display: block;
+}
 
 
 
@@ -506,13 +516,13 @@ h1 {
     padding: 20px;
 }
 
-
+/*
 #contact .contact-center  {
     margin: auto;
     display: block;
     width: 50%;
     padding: 10px;
-    text-align: center;
+    text-align: left;
 }
 
 
@@ -526,7 +536,7 @@ h1 {
 #contact .pad-bot1 {
     padding-top: 30px;
     padding-bottom: 50px;
-}
+}*/
 
 #contact .pad-bot2 {
     padding-top: 50px;
