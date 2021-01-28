@@ -416,7 +416,7 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: center;
-    opacity: 0.3;
+    opacity: 0.7;
 }
 
 
@@ -661,7 +661,6 @@ footer {
 
         #top .you-pad {
             padding-top: 50px;
-            opacity: .7;
 }
 
 }
@@ -675,7 +674,6 @@ footer {
 
         #top .you-pad {
             padding-top: 50px;
-            opacity: .7;
         }       
 
 }
@@ -690,7 +688,6 @@ footer {
         
         #top .you-pad {
             padding-top: 50px;
-            opacity: 1;
         }   
          
 
