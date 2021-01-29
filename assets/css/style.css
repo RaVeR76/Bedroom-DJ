@@ -466,14 +466,11 @@ h1 {
 /*--- Contact Section ---*/
 
 #contact {
-    background-image: url("../images/kellys-portrush-bur.jpg");
+    background-image: url("../images/kellys-portrush.jpg");
     background-attachment: scroll;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
-    width: 100%;
     overflow: hidden;
-    padding-bottom: 80px;
 }
 
 
@@ -514,55 +511,28 @@ h1 {
     display: block;
 }
 
+.align-radio{
+    align-content: center;
+}
 
 
 
-#contact h3 {
+
+#contact p {
+    padding: 0.5rem;
     text-align: center; 
-    padding: 20px;
 }
 
-/*
-#contact .contact-center  {
-    margin: auto;
-    display: block;
-    width: 50%;
-    padding: 10px;
-    text-align: left;
+.jumbotron {
+    background: rgba(255, 255, 255, .9);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding: 50px;
 }
 
-
-#contact .con-pad {
-    padding-top: 30px;
-    padding-bottom: 150px;
-}
-
-
-
-#contact .pad-bot1 {
-    padding-top: 30px;
-    padding-bottom: 50px;
-}*/
-
-#contact .pad-bot2 {
-    padding-top: 50px;
-    padding-bottom: 50px;
-}
-
-
-#contact .rad-pad-left {
-    padding-left: 20%;
-}
-
-
-#contact .col2 {
-    background-color: #F8F9FA;
-    text-align: center;
-}
-
-#contact .p-pad p{
-    padding-top: 40px;
-    padding-bottom: 20px;
+input {
+    display: flex;
+    vertical-align: middle;
 }
 
 
