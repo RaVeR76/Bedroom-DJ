@@ -465,10 +465,22 @@ h1 {
 
 /*--- Contact Section ---*/
 
+#contact {
+    background-image: url("../images/kellys-portrush-bur.jpg");
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+    padding-bottom: 80px;
+}
 
+
+/*
 #contact {
     background-color: #F8F9FA;
-}
+}*/
 
 #contact h1 {
 	margin: 1em 0 0.5em 0;
@@ -484,7 +496,7 @@ h1 {
 		inset 0 0 5px rgba(235, 92, 104, 0.5),
 		inset 550px 0 35px #F8F9FA;
 	border-radius: 0 10px 0 10px;
-    background: #F8F9FA url("../images/rave-crowd-pic.jpg") repeat center left ;
+    background: transparent;
     background-size: contain;
     opacity: 1;
 }
