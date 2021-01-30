@@ -172,6 +172,14 @@ html{
     -o-filter: grayscale(100%);   
 }
 
+
+
+
+
+
+
+
+
 #hero-image:hover .hero-logo .image-size {
     transform: translate(-50%, -50%);
 	z-index: 10;
@@ -349,6 +357,12 @@ html{
     word-wrap: break-word;
     overflow-wrap: break-word;
     hyphens: auto;
+}
+
+#memory .rave-cave-image{
+    display: flex;
+    margin: auto;
+    justify-content: center;
 }
 
 
