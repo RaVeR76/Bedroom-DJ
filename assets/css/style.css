@@ -516,7 +516,7 @@ h1 {
 }
 
 .jumbo-padding{
-    padding: 100px;
+    padding: 100px 0px;
 }
 
 #contact p {
@@ -582,11 +582,6 @@ footer {
 .foot-links li a i:hover {
     background: #B696ED;
     color: #212529;
-}
-
-
-.smiley-pad {
-    padding-bottom: 20px;
 }
 
 
@@ -695,7 +690,11 @@ footer {
 
         #top .you-pad {
             padding-top: 50px;
-        }       
+        } 
+        
+        .smiley-pad {
+            padding-bottom: 20px;
+        }
 
 }
 
@@ -715,7 +714,11 @@ footer {
         
         #top .you-pad {
             padding-top: 50px;
-        }   
+        }  
+        
+        .smiley-pad {
+            padding-bottom: 20px;
+        }
          
 
 }
