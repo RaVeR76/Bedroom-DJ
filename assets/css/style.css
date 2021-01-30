@@ -523,7 +523,6 @@ h1 {
 .radio-align {
     text-align: center;
     padding-top: 1em;
-
 }
 
 .submit-style {
@@ -533,6 +532,11 @@ h1 {
 
 .rave-padding{
     padding-top: 1.5em;
+}
+
+.btn-outline-warning.custom-btn {
+	background-color: #000;
+	border-color: #000;
 }
 
 
