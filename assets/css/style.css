@@ -506,23 +506,6 @@ h1 {
 }
 
 
-.submit-style {
-    margin: 0 auto;
-    display: block;
-}
-
-.align-radio{
-    align-content: center;
-}
-
-
-
-
-#contact p {
-    padding: 0.5rem;
-    text-align: center; 
-}
-
 .jumbotron {
     background: rgba(255, 255, 255, .9);
     margin-top: 1rem;
@@ -530,12 +513,21 @@ h1 {
     padding: 50px;
 }
 
-input {
-    display: flex;
-    vertical-align: middle;
+#contact p {
+    padding: 0.5rem;
+    text-align: center; 
 }
 
+.radio-align {
+    text-align: center;
+    padding: 1em;
 
+}
+
+.submit-style {
+    margin: 0 auto;
+    display: block;
+}
 
 
 
