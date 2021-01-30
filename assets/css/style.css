@@ -480,7 +480,7 @@ h1 {
 #contact {
     background-color: #F8F9FA;
 }*/
-
+/*
 #contact h1 {
 	margin: 1em 0 0.5em 0;
 	font-weight: 600;
@@ -498,7 +498,7 @@ h1 {
     background: transparent;
     background-size: contain;
     opacity: 1;
-}
+}*/
 
 
 .form-group {
@@ -515,6 +515,10 @@ h1 {
     padding: 50px;
 }
 
+.jumbo-padding{
+    padding: 100px;
+}
+
 #contact p {
     padding: .5rem;
     text-align: center; 
@@ -525,17 +529,20 @@ h1 {
     padding-top: 1em;
 }
 
-.submit-style {
-    margin: 0 auto;
-    display: block;
-}
 
 .rave-padding{
     padding-top: 1.5em;
 }
 
+.check-padding{
+    padding-bottom: 1em;
+}
+
+
 .btn-outline-warning.custom-btn {
-	background-color: #000;
+    margin: 0 auto;
+    display: block;
+	background-color: #B696ED;
 	border-color: #000;
 }
 
