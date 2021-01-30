@@ -400,13 +400,43 @@ html{
 
 /*--- Contact Section ---*/
 
-#contact {
+.contact-image {
+        position: relative; 
+}
+
+    .contact-image::before {
+        content: "";
+        background-image: url("../images/kellys-portrush.jpg");
+        background-size: cover;
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        bottom: 0px;
+        left: 0px;
+        opacity: .7;
+        }    
+
+
+/*
+.contact-image {
+    content: "";
+    background-image: url("../images/kellys-portrush.jpg");
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+}
+
+.contact-image::before {
     background-image: url("../images/kellys-portrush.jpg");
     background-attachment: scroll;
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
-}
+    opacity: 0.8;
+}*/
+
 
 
 /*
