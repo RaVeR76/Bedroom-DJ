@@ -43,10 +43,6 @@ html{
     padding-bottom:5px;
 }
 
-.smiley-size {
-    height: 30px;
-    width: 30px;
-}
 
 
 #footer-info h5 {
@@ -60,12 +56,6 @@ html{
     text-align: center;
 }
 
-h1 {
-    font-family: "Lato400", sans-serif;
-    font-weight: 700;
-    text-transform: uppercase;
-    color: #F8F9FA;
-}
 
 #profile h3{
     font-family: "Titillium Web", sans-serif;
@@ -462,6 +452,11 @@ h1 {
 } 
 
 
+/*
+#tour .groove {
+    color: #F8F9FA;
+    border-style: groove;
+}*/
 
 
 
@@ -509,7 +504,7 @@ h1 {
 
 
 .jumbotron {
-    background: rgba(255, 255, 255, .9);
+    background: rgba(255, 255, 255, .8);
     margin-top: 1rem;
     margin-bottom: 1rem;
     padding: 50px;
@@ -543,7 +538,7 @@ h1 {
     margin: 0 auto;
     display: block;
 	background-color: #B696ED;
-	border-color: #000;
+	border-color: #212529;
 }
 
 
@@ -588,6 +583,15 @@ footer {
 #footer-info {
     padding: 40px;
     text-align: center;
+}
+
+.smiley-size {
+    height: 30px;
+    width: 30px;
+}
+
+.smiley-size:hover {
+    filter:invert(80%);
 }
 
 
