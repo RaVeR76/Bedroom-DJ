@@ -197,8 +197,8 @@ html{
 
 #hero-image .hero-logo {
 	position: absolute;
-    top: 55%;
-    left: 75%;			
+    top: 57%;
+    left: 76%;			
 }
 
 #hero-image .jumbotron {
@@ -649,10 +649,17 @@ footer {
         }
 
 
+        #hero-image .hero-logo {
+        position: absolute;
+        top: 45%;
+        left: 70%;			
+        }
+
+
 
 
         .image-size {
-        height: 100px;
+        height: 110px;
         filter:invert(100%);
         opacity: 0;      
         }
@@ -680,7 +687,7 @@ footer {
         }
 
         .image-size {
-        height: 50px;
+        height: 100px;
         filter:invert(100%);
         opacity: 0;      
         }
