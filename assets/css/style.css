@@ -16,16 +16,7 @@ html{
     scroll-behavior: smooth;
 }
 
-
-/*--- Colours ---*/
-
-
-
-
-
-
-/*--- Special paddings / margins / text ---*/
-
+/*-- Special paddings / margins / text --*/
 .inline-block {
     display: inline-block;
 }
@@ -52,7 +43,6 @@ h1 {
 #profile h1, #memory h1 {
     text-align: left;
 }
-
 
 #top h1, #tour h1 {
     background: transparent;
@@ -90,9 +80,7 @@ h2, h3, h4, h5 {
     color: #B696ED;
 }
 
-
-/*--- navigation bar ---*/
-
+/*-- navigation bar --*/
 .navbar {
     background: #F8F9FA;
 }
@@ -110,7 +98,6 @@ h2, h3, h4, h5 {
     margin-right: 1em !important;
     color: #B696ED;
 }
-
 
 .nav-link:hover {
     color: #EB5C68;
@@ -143,11 +130,7 @@ h2, h3, h4, h5 {
    position: sticky;     /*-- Added this because when the screen was collasped, the activation of the navbar burger menu icon would cause drop down menu to overlap my first section --*/ 
    }   
 
-
-/*------------------------ Hero Section -----------------------*/
-
-
-
+/*-- Hero Section --*/
 #hero-image {
     background-image: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("../images/snooze-hero-face.jpg");
     height: 90%; 
@@ -156,7 +139,6 @@ h2, h3, h4, h5 {
     background-size: cover;
     position: relative;
 }
-
 
 #hero-image .hero-logo {
 	position: absolute;
@@ -194,17 +176,15 @@ h2, h3, h4, h5 {
     font-weight: 400;
 }
 
-
 #hero-image:hover {
     background-image: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("../images/snooze-hero-side.jpg");
-    height: 90%;
+    height: 100%;
     transition: all 3.0s ease;
     filter: grayscale(100%);
     -webkit-filter: grayscale(100%);
     -moz-filter: grayscale(100%);
     -o-filter: grayscale(100%);   
 }
-
 
 #hero-image:hover .hero-logo .image-size {
     transform: translate(-50%, -50%);
@@ -218,11 +198,7 @@ h2, h3, h4, h5 {
     opacity: 0;
 }
 
-
-
-/*--- Profile Section ---*/
-
-
+/*-- Profile Section --*/
 .top-pad {
     padding-top: 70px;
 }
@@ -257,8 +233,6 @@ h2, h3, h4, h5 {
     min-height: 150px;
 }
 
-
-
 #profile .craic-style p {
     opacity: 1;
     font-size: 16px;
@@ -268,10 +242,7 @@ h2, h3, h4, h5 {
     hyphens: auto;
 }
 
-
-
-/*--- Memory Section ---*/
-
+/*-- Memory Section --*/
 #memory .mem-text {
     display: flex;
     margin: auto;
@@ -279,7 +250,6 @@ h2, h3, h4, h5 {
     text-align: justify;
     padding: 2%;
 }
-
 
 #memory .mem-text p {
     font-size: 16px;
@@ -295,26 +265,20 @@ h2, h3, h4, h5 {
     justify-content: center;
 }
 
-
-/*--- Top 10 Section ---*/
-
+/*-- Top 10 Section --*/
 #top {
     background-image: url("../images/kellys-raver-pic.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: 100% 110%;
-  /*background-position: center;
-    width: 100%;*/
     overflow: hidden;
-    padding-bottom: 80px;
+    padding-bottom: 100px;
 }
-
 
 #top .top-links {
     background-color: transparent;
     color: #F8F9FA;
     font-size: 20px;
-    border: none;
     border: none;
     text-decoration: none;
 }
@@ -330,14 +294,7 @@ h2, h3, h4, h5 {
     opacity: 0.7;
 }
 
-
-
-
-
-
-/*--- Tour Section ---*/
-
-
+/*-- Tour Section --*/
 #tour {
     background-image: url("../images/neon-banner.jpg");
     background-repeat: no-repeat;
@@ -357,80 +314,22 @@ h2, h3, h4, h5 {
     padding: 50px 50px 150px;
 } 
 
-
-/*
-#tour .groove {
-    color: #F8F9FA;
-    border-style: groove;
-}*/
-
-
-
-/*--- Contact Section ---*/
-
+/*-- Contact Section --*/
 .contact-image {
-        position: relative; 
-}
-
-    .contact-image::before {
-        content: "";
-        background-image: url("../images/kellys-portrush.jpg");
-        background-size: cover;
-        position: absolute;
-        top: 0px;
-        right: 0px;
-        bottom: 0px;
-        left: 0px;
-        opacity: .7;
-        }    
-
-
-/*
-.contact-image {
-    content: "";
-    background-image: url("../images/kellys-portrush.jpg");
-    background-attachment: scroll;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
-    overflow: hidden;
+    position: relative; 
 }
 
 .contact-image::before {
+    content: "";
     background-image: url("../images/kellys-portrush.jpg");
-    background-attachment: scroll;
-    background-repeat: no-repeat;
     background-size: cover;
-    overflow: hidden;
-    opacity: 0.8;
-}*/
-
-
-
-/*
-#contact {
-    background-color: #F8F9FA;
-}*/
-/*
-#contact h1 {
-	margin: 1em 0 0.5em 0;
-	font-weight: 600;
-	font-family: 'Lato', sans-serif;
-	text-align: left;  
-	font-size: 36px;
-	line-height: 40px;
-	padding: 15px 15px 15px 15px;
-	color: #EB5C68;
-	box-shadow: 
-		inset 0 0 0 1px rgba(182,150,237, 0.4), 
-		inset 0 0 5px rgba(235, 92, 104, 0.5),
-		inset 550px 0 35px #F8F9FA;
-	border-radius: 0 10px 0 10px;
-    background: transparent;
-    background-size: contain;
-    opacity: 1;
-}*/
-
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: .7;
+}    
 
 .form-group {
     max-width: 500px;
@@ -460,7 +359,6 @@ h2, h3, h4, h5 {
     padding-top: 1em;
 }
 
-
 .rave-padding{
     padding-top: 1.5em;
 }
@@ -469,26 +367,26 @@ h2, h3, h4, h5 {
     padding-bottom: 1em;
 }
 
-
 .btn-outline-warning.custom-btn {
     margin: 0 auto;
     display: block;
 	background-color: #B696ED;
-	border-color: #212529;
+    border-color: #212529;
+    color: #212529;
 }
 
+.btn-outline-warning.custom-btn:hover{
+    background-color: #EB5C68;
+    color: #F8F9FA;
+}
 
-
-/*--- Footer Section ---*/
-
+/*-- Footer Section --*/
 footer {
     background-color: #212529;
     color: #F8F9FA;
     min-height: 100px;
     margin: 0;
 }
-
-
 
 .foot-links {
     padding-top: 10px;
@@ -515,7 +413,6 @@ footer {
     color: #212529;
 }
 
-
 #footer-info {
     padding: 40px;
     text-align: center;
@@ -530,14 +427,8 @@ footer {
     filter:invert(80%);
 }
 
-
-
 /* Media Queries */
-
-
 /* Show in Large desktops and laptops */
-
-
 @media (min-width: 1200px) {
 
     .bgimg {
@@ -555,11 +446,6 @@ footer {
         left: 0px;
         opacity: 0.2;
         }    
-
-        
-
-
-
 }
 
 /*Hide in Other Small Devices */
