@@ -201,6 +201,18 @@ html{
     left: 75%;			
 }
 
+#hero-image .jumbotron {
+    position: absolute;
+    top: 20%;
+    right: 2rem;
+    background: rgba(255, 255, 255, 0);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    color: #F8F9FA;
+    width: 40%; 
+    text-align: center;
+}
+
 
 #hero-image:hover {
     background-image: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("../images/snooze-hero-side.jpg");
@@ -213,13 +225,6 @@ html{
 }
 
 
-
-
-
-
-
-
-
 #hero-image:hover .hero-logo .image-size {
     transform: translate(-50%, -50%);
 	z-index: 10;
@@ -228,22 +233,10 @@ html{
 
 }
 
-#hero-image:hover .hero-comment{
+#hero-image:hover .jumbotron{
     opacity: 0;
 }
 
-
-
-.hero-comment {
-        position: absolute;
-        top: 30%;
-        right: 5%; 
-        background: rgb(0, 0, 0); /* Fallback color */
-        background: rgba(0, 0, 0, 0.2); 
-        color: #F8F9FA;
-        width: 40%; 
-        text-align: center;
-}
 
 
 /*--- Profile Section ---*/
@@ -624,16 +617,6 @@ footer {
             background-image: none;
         }
 
-
-        .hero-comment {
-            position: absolute; /* Position the background text */
-            bottom: 0; /* At the bottom. Use top:0 to append it to the top */
-            background: rgb(0, 0, 0); /* Fallback color */
-            background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
-            color: #F8F9FA; /* Grey text */
-            width: 100%; /* Full width */
-        }
-
         .image-size {
         height: 150px;
         filter:invert(100%);
@@ -652,6 +635,21 @@ footer {
         .bgimg {
             background-image: none;
         }
+
+         #hero-image .jumbotron {
+        position: absolute;
+        top: 1%;
+        left: 40%;
+        background: rgba(255, 255, 255, 0);
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        color: #F8F9FA;
+        width: 60%; 
+        text-align: center;
+        }
+
+
+
 
         .image-size {
         height: 100px;
