@@ -36,8 +36,8 @@ h1 {
 	color: #EB5C68;
 	box-shadow: 
 		inset 0 0 0 1px rgba(182,150,237, 0.4), 
-		inset 0 0 5px rgba(235, 92, 104, 0.5),
-		inset 310px 0 35px #F8F9FA;
+		inset 0 0 0.5rem rgba(235, 92, 104, 0.5),
+		inset 31rem 0 3.5rem #F8F9FA;
 	border-radius: 0 1rem 0 1rem;
     background: #F8F9FA url("../images/rave-crowd-pic.jpg") repeat center left ;
     background-size: contain;
@@ -159,6 +159,7 @@ p {
    }   
 
 /*-- Hero Section --*/
+
 #hero-image {
     background-image: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("../images/snooze-hero-face.jpg");
     height: 90%; 
@@ -356,6 +357,10 @@ p {
     opacity: .7;
 }    
 
+.contact-padding {
+    padding: 10rem 0rem;
+}
+
 .form-group {
     max-width: 50rem;
     margin-left: auto;
@@ -371,11 +376,10 @@ p {
     background: rgba(255, 255, 255, .8);
     margin-top: 1rem;
     margin-bottom: 1rem;
-    padding: 10rem;
 }
 
-.jumbo-padding{
-    padding: 10rem 0rem;
+.jumbo-padding {
+    padding: 10rem;
 }
 
 #contact p {
@@ -472,10 +476,10 @@ footer {
         background-image: url("../images/dj-silhouette-purps.png");
         background-size: cover;
         position: absolute;
-        top: -400px;
-        right: 0px;
-        bottom: 0px;
-        left: 0px;
+        top: -40rem;
+        right: 0rem;
+        bottom: 0rem;
+        left: 0rem;
         opacity: 0.2;
         }    
 }
