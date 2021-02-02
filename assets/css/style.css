@@ -2,7 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Titillium+Web:wght@300;400&display=swap');
 
-
 html{
     font-size: 62.5%;
 }
@@ -17,7 +16,6 @@ body, html {
     font-family: 'Titillium Web', sans-serif;
     scroll-behavior: smooth;
 }
-
 
 /*-- Special paddings / margins / text --*/
 
@@ -132,15 +130,15 @@ p {
 }
 
 .custom-toggler .navbar-toggler-icon {
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(182, 150, 237, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(182, 150, 237, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 }
 
 .custom-toggler.navbar-toggler {
-  border-color: rgb(182, 150, 237);
+    border-color: rgb(182, 150, 237);
 } 
 
 .custom-toggler.navbar-toggler:hover {
-  border-color: rgb(182, 150, 237);
+    border-color: rgb(182, 150, 237);
 } 
 
 .navbar-toggler:focus,
@@ -321,6 +319,7 @@ p {
 }
 
 /*-- Tour Section --*/
+
 #tour {
     background-image: url("../images/neon-banner.jpg");
     background-repeat: no-repeat;
@@ -341,6 +340,7 @@ p {
 } 
 
 /*-- Contact Section --*/
+
 .contact-image {
     position: relative; 
 }
@@ -419,6 +419,7 @@ p {
 }
 
 /*-- Footer Section --*/
+
 footer {
     background-color: #212529;
     color: #F8F9FA;
@@ -468,7 +469,6 @@ footer {
 /* Media Queries */
 
 /* Show in Large desktops and laptops */
-
 @media (min-width: 1200px) {
 
     .bgimg {
@@ -490,7 +490,6 @@ footer {
 
 /*Hide in Other Small Devices */
 
-
 /* Landscape tablets and medium desktops */
 @media (min-width: 992px) and (max-width: 1199px) {
 
@@ -509,8 +508,6 @@ footer {
         filter:invert(100%);
         opacity: 0;      
         }
-    
-
 }
 
 /* Portrait tablets and small desktops */
@@ -535,7 +532,6 @@ footer {
         #top .you-pad {
             padding-top: 5rem;
         }
-
 }
 
 /* Landscape phones and portrait tablets */
@@ -557,15 +553,11 @@ footer {
         text-align: center;
         }
 
-
         #hero-image .hero-logo {
         position: absolute;
         top: 45%;
         left: 70%;			
         }
-
-
-
 
         .image-size {
         height: 11rem;
@@ -577,7 +569,6 @@ footer {
         padding-top: 10rem;
         }
 
-
         #top .you-pad {
             padding-top: 5rem;
         } 
@@ -585,7 +576,6 @@ footer {
         .smiley-pad {
             padding-bottom: 2rem;
         }
-
 }
 
 /* Portrait phones and smaller */
@@ -604,15 +594,12 @@ footer {
         #tour .tour-head-pads {
         padding: 13rem 2rem 5rem;
         }
-
-        
+    
         #top .you-pad {
             padding-top: 5rem;
         }  
         
         .smiley-pad {
             padding-bottom: 2rem;
-        }
-         
-
+        }      
 }
