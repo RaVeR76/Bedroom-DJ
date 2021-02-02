@@ -75,7 +75,7 @@ h5 {
 }
 
 p {
-    font-size: 1.6rem;
+    font-size: 1.7rem;
 }
 
 .head-padding {
@@ -255,13 +255,13 @@ p {
     font-weight: 600;
 }
 
-#profile .craic-style {
+.craic-style {
     text-align: justify;
     height: auto;
     min-height: 15rem;
 }
 
-#profile .craic-style p {
+.craic-style p {
     line-height: 2.6rem;
     word-wrap: break-word;
     overflow-wrap: break-word;
@@ -270,7 +270,7 @@ p {
 
 /*-- Memory Section --*/
 
-#memory .mem-text {
+.mem-text {
     display: flex;
     margin: auto;
     justify-content: center;
@@ -278,14 +278,14 @@ p {
     padding: 2%;
 }
 
-#memory .mem-text p {
+.mem-text p {                      /* Same as craic-style */
     line-height: 2.6rem;
     word-wrap: break-word;
     overflow-wrap: break-word;
     hyphens: auto;
 }
 
-#memory .rave-cave-image{
+#memory .rave-cave-image {
     display: flex;
     margin: auto;
     justify-content: center;
@@ -379,7 +379,11 @@ p {
 }
 
 .jumbo-padding {
-    padding: 10rem;
+    padding: 7rem 10rem 10rem;
+}
+
+#contact h3 {
+    padding-bottom: 5rem;
 }
 
 #contact p {
@@ -541,7 +545,7 @@ footer {
             background-image: none;
         }
 
-         #hero-image .jumbotron {
+        #hero-image .jumbotron {
         position: absolute;
         top: 1%;
         left: 40%;
