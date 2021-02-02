@@ -396,6 +396,19 @@ p {
     padding-top: 1rem;
 }
 
+.checkbox-align {
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 25px;
+  position: relative;
+}
+
+.checkbox-align input {
+  position: absolute;
+  left: 1rem;
+  top: 3px;
+}
+
 .rave-padding{
     padding-top: 1.5rem;
 }
