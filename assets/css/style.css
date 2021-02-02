@@ -216,7 +216,6 @@ p {
 	z-index: 10;
     transition: all 2.0s ease;
     opacity: 1;	
-
 }
 
 #hero-image:hover .jumbotron{
