@@ -162,25 +162,28 @@ I realised this was the correct direction when designing my wireframes and also 
 ### What didn't make the cut
 
 As you can see from my wireframes mentioned above, nothing much deviated from the original plan which I am pleasantly pleased about considering this is my first project & therefore my first website design.
+
 My hero image was going to be a simple image of me on my decks in my bedroom with a simple caption. Don't get me wrong, this would have worked fine & still looked cool.
 I just wanted to try something a little different to introduce myself to the world.  
+
 The Backstory section became the Best Memory section because when I started writing something or thinking about the Northern Ireland rave scene, I always thought about this one night / morning.
 Plus I had an historical artifact ... the magazine edition with the one image that captured that very memory !  
+
 In the Top 10 section I kept the youtube iframe on the right hand side until smaller screen sizes, where I move it to the bottom of my list using media queries.
 When I looked at the links beside the iframe, I thought it would be better looking to position it at the bottom than where I orginally wanted, which was in the middle of the list.  
+
 The Tour Dates section probably changed the most from orginally planned. It was going to be a simple vertical chronological list of humorous dates on a plain background.
 I came across that background when looking for DJ & rave images, pngs. I thought I could utilise that for my Tour section, test it, liked it so therefore kept it in.
 I then made my actual Tour Dates info display horizontal which deffo looks much more appealing than my initial thoughts for this section.  
 
+The Contact & Competition section changed to just the contact section. I also combined the competiton into my contact jumbotron for aesthetics & simplicity values.
+It looks much better now than when I had it split into two seperate sections. I also added a background image of inside Kellys Portrush to work with the slightly opaque contact form.  
 
+Finally, a fair few banging rave tunes didn't make the cut which was one of the hardest parts of this whole project .... The Top 10 Selection, ha ha. 
+Obviously, there are loads more top tunes out there but these were my Top 10 choices, in the pressure world of deadlines & sacrifices.  
 
-
-
-A fair few awesome rave tunes didn't make the cut which was one of the hardest parts of this whole project .... The Top 10 Selection, ha ha. 
-Obviously, there are loads more top tunes out there but these were my Top 10 choices, in the pressure world of deadlines & sacrifices.
-
-
-I wanted to do so much more but 
+That's the main changes that occurred as I progressed through this project & like I said, it stayed pretty much they way I orginally wanted. 
+As I gather more experience, I will get better at deciding what will look good & choosing better layout options .... also the CSS coding will get better organised :)
 
 
 # Features
@@ -223,14 +226,24 @@ I know this is my first site but look at me with my possible future website impl
 
 # Testing
 ---
-# TBC
+
+
+
+
+
+
+
+
+
+
+
 
 # Bugs
 ---
 Before October 2020 the only encounter I had with websites was viewing them as a so called 'user'.
 Fast forward 3 months and I'm fairly close to handing in my first MS1 project and therefore my first ever website .... unbelieveable.
 I knew it was gonna be tough at times due to my inexperience but me, being stubborn and persistant, kept going & learning everyday.
-One day I sat for 2 to 3 hours trying to figure out why my code ain't working .... fecking TYPO !!! But you learn from such dishearting experiences ha ha, believe me :)
+One day I sat for 2 to 3 hours trying to figure out why my code ain't working .... fecking one little TYPO !!! But you learn from such dishearting experiences ha ha, believe me :)
 
 Anyway, it's all about bugs and not the wee bed bugs seeing I'm a Bedroom DJ !!!
 
