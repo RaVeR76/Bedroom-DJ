@@ -359,6 +359,8 @@ None because it's all my story, yeoooo
 
 **Images used within my website**
 
+My Favicon - [Rave Smiley](https://www.freevectors.net/acid-smiley-free-tomrobers101-38328) image used & converted using [favicon](https://favicon.io/), an online generator
+
 Hero Images - DJ Snooze-A-Lot images taken on my work phone by my big sister **Lynn** (who couldn't stop peeing herself) & me wee ma **Maureen**
 
 Section Headings Background Crowd Image - [Rave Crowd Image](https://www.desktopbackground.org/wallpaper/crowd-people-hd-wallpapers-190330)
