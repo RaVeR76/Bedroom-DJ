@@ -161,7 +161,27 @@ I realised this was the correct direction when designing my wireframes and also 
 
 ### What didn't make the cut
 
-# TBC
+As you can see from my wireframes mentioned above, nothing much deviated from the original plan which I am pleasantly pleased about considering this is my first project & therefore my first website design.
+My hero image was going to be a simple image of me on my decks in my bedroom with a simple caption. Don't get me wrong, this would have worked fine & still looked cool.
+I just wanted to try something a little different to introduce myself to the world.  
+The Backstory section became the Best Memory section because when I started writing something or thinking about the Northern Ireland rave scene, I always thought about this one night / morning.
+Plus I had an historical artifact ... the magazine edition with the one image that captured that very memory !  
+In the Top 10 section I kept the youtube iframe on the right hand side until smaller screen sizes, where I move it to the bottom of my list using media queries.
+When I looked at the links beside the iframe, I thought it would be better looking to position it at the bottom than where I orginally wanted, which was in the middle of the list.  
+The Tour Dates section probably changed the most from orginally planned. It was going to be a simple vertical chronological list of humorous dates on a plain background.
+I came across that background when looking for DJ & rave images, pngs. I thought I could utilise that for my Tour section, test it, liked it so therefore kept it in.
+I then made my actual Tour Dates info display horizontal which deffo looks much more appealing than my initial thoughts for this section.  
+
+
+
+
+
+A fair few awesome rave tunes didn't make the cut which was one of the hardest parts of this whole project .... The Top 10 Selection, ha ha. 
+Obviously, there are loads more top tunes out there but these were my Top 10 choices, in the pressure world of deadlines & sacrifices.
+
+
+I wanted to do so much more but 
+
 
 # Features
 ---
@@ -303,12 +323,6 @@ The main points he did mention that I had to fix were -
 * Tidy CSS up and simplify my code, to reduce the size. I had similar styles being applied to each section so I added one piece of code that could apply it the all the common areas. Simplicity is key.
 
 
-
-
-
-
-
-
 # Deployment
 ---
 # Credits
@@ -336,11 +350,11 @@ Hero Images - DJ Snooze-A-Lot images taken on my work phone by my big sister **L
 
 Section Headings Background Crowd Image - [Rave Crowd Image](https://www.desktopbackground.org/wallpaper/crowd-people-hd-wallpapers-190330)
 
-Section Headings Vinyl Image - [Vinyl Image](https://pngtree.com/freepng/vinyl-record-disc_4766722.html) I changed the center colour to suit my colour scheme.
+Section Headings Vinyl Image - [Vinyl Image](https://pngtree.com/freepng/vinyl-record-disc_4766722.html) I changed the center colour to suit my colour scheme
 
-Profile Section background - [DJ Silhouette](https://pngtree.com/freepng/dj-silhouette-fashion-music-man_5758033.html) I changed the colour to suit my colour scheme.
+Profile Section background - [DJ Silhouette](https://pngtree.com/freepng/dj-silhouette-fashion-music-man_5758033.html) I changed the colour to suit my colour scheme
 
-Best Memory Section Image - Eclipse Magazine edition I have, with this image of our Rave In The Cave afterparty.
+Best Memory Section Image - Eclipse Magazine edition I have, with this image of our Rave In The Cave afterparty
 
 Top 10 Section Background Image - Old photos of Kellys Portrush, I had on my phone but this one was done by **Brendan Doc (The Barn in Kellys, Portrush, September 1993).**
 
@@ -350,11 +364,13 @@ Contact Section Background Image - Old photos of Kellys Portrush, I had on my ph
 
 Footer Section Smiley Image - [Rave Smiley](https://www.freevectors.net/acid-smiley-free-tomrobers101-38328)
 
-**Special Shout Out**
+**Special Shout Outs**
 
-* Firstly my sister & mum for my hero images. The laugh we had taking them & trying to get them perfect.
-* Slack for continuous information, help links, tutorials, laughter, support .... I could go on.
-* [Stackoverflow](https://stackoverflow.com/), useful resource site for finding solutions to many issues I had.
+* Firstly my sister & mum for my hero images. The laugh we had taking them & trying to get them perfect
+* My **'patient'** mentor [Simen Daehlin](https://github.com/Eventyret), for realigning me on many occasions & assisting me with my noob laden code
+* [Byllsa](https://github.com/byllsa), for her awesome README & cool website
+* Slack for continuous information, help links, tutorials, laughter, support .... I could go on
+* [Stackoverflow](https://stackoverflow.com/), useful resource site for finding solutions to many issues I had
 * All the oldskool & newskool ravers around the world that keep the vibe & love flowing **PLUR**
 
 **This site is mainly for educational purposes only but chill out, have a laugh & enjoy the music!**
