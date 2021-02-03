@@ -1,7 +1,6 @@
 # DJ Snooze-A-Lot #
 Who is he, I hear you ask. How about ....   
-***Irelands longest serving Bedroom DJ !!!***  
-**He'll be coming in a ..... I mean, coming to a bedroom near you ;)**
+***Irelands longest serving Oldskool Bedroom DJ !!!***  
 
 ![DJ Snooze-A-Lot](https://github.com/RaVeR76/Bedroom-DJ/raw/master/assets/images/snooze-hero-face.jpg)
 
@@ -39,10 +38,10 @@ Who is he, I hear you ask. How about ....
 ## Project Goals
 
 
-To protray a fictional character called **DJ Snooze-A-Lot** & who is Ireland's longest serving Bedroom DJ. 
-I will create a website firstly, to have a laugh at my expense but more importantly, to display the skills I have learned so far.
+To protray a character called **DJ Snooze-A-Lot** (based on myself), who is Ireland's longest serving Bedroom DJ & has never DJ'd anywhere else ... other than his bedroom. 
+I will create a website firstly, to have a laugh at my expense but more importantly, to display the coding skills I have learned so far.
 I just want people to have a laugh when they visit my website & enjoy the nostalgia of the 90's rave scene as well.
-Ye never know though, maybe I'll become famous ..... Bedroom DJ to World SuperStar DJ **ALL** because of my website. 
+Ye never know though, maybe I'll become famous ..... Bedroom DJ to World SuperStar DJ **ALL** because of my wee website. 
 How cool would that be ha ha ?
 
 
@@ -60,10 +59,10 @@ How cool would that be ha ha ?
 ## User Stories
 
 
-* As a user, I want to see who this crazy person that is Ireland's longest serving Bedroom DJ, actually is
+* As a user, I want to know who this crazy person that is Ireland's longest serving Bedroom DJ, actually is
 * As a user, I want to have a laugh and have a smile on my face
 * As a user, I want to enjoy some old classic rave tunes that I may never have heard before
-* As a user, I want to enjoy am aesthetically pleasing website which is easy to navigate around
+* As a user, I want to enjoy a aesthetically pleasing website which is easy to navigate around
 * As a user, I want to be taken back to a muddy field in the middle of nowhere, early 90s and lost in the music
 
 
@@ -71,7 +70,7 @@ How cool would that be ha ha ?
 
 
 * As a site owner, I want to make sure site visitors smile & laugh
-* As a site owner, I want them to connect and love the fictional character that is DJ Snooze-A-Lot
+* As a site owner, I want them to connect and love the character that is DJ Snooze-A-Lot
 * As a site owner, I want people to enjoy some top tunes from the 90s
 * As a site owner, I want like minded ravers to relive their youth through my website
 * As a site owner, I want set up a mailing list for future CD sales and updates. Also a competetion possibly on sigh up.
@@ -85,16 +84,16 @@ How cool would that be ha ha ?
 * Scrolling website
 * Professional looking website which is aesthetically pleasing
 * 5 or 6 sections depending on overall look and how compact it may look
-* As much funny shit as possible but in a professional manner (if possible)
-* To have an email sign-up form for DJ updates, future CD's and live mixes plus a wee competetion to win a CD on sign-up
+* As much funny stuff as possible but in a professional manner (if possible)
+* To have an email sign-up form or contact form for DJ updates, future CD's and live mixes plus a wee competetion to win a CD on sign-up
 
 ### Expectations
 
 * The user will smile as a bare minimum but laugh if I consider my wee website a success
-* They will enjoy the websire layout and navigate freely with no issues
+* They will enjoy the website layout and navigate freely with no issues
 * Good working links (pics or videos) will be provided to access my Top 10 Classics Tunes
 * That fellow ravers reminisce about the good old days
-* Fun stories with shit puns is always a winner in my eyes
+* Fun stories with poor puns is always a winner in my eyes
 
 
 ## Design Choices
@@ -314,15 +313,15 @@ The main points he did mention that I had to fix were -
 ---
 # Credits
 ---
-I know this is my first site and I had such an experience from start to finish i can assure you of that.  
+I know this is my first site and I had such an experience from start to finish I can assure you of that.  
 I was up ... I was down ... Somedays I felt like Neo from the Matrix ... Other days I had serious Imposter Syndrome, like why the feck am I doing this because I know nothing about coding.
 I would stare a bit of code and think what does that actually mean .... I don't get it.  
 I really struggled with the Bootstrap grid and the fact it's Mobile First.   
-Man, did that fry my head for ages.....s  
-But you know what, with patience & devotion, I grinded away most nights and weekends, learning everyday and researching how to make things you want to happen in a website. 
-Watching back the Code Institutes lessons again, numerous YouTube videos on everything HTML or CSS and delving into the dark corners of the Coding World to figure out why my code wasn't working they way I had anticapated
+Man, did that fry my head for ages.....  
+But you know what, with patience & devotion, I grinded away most nights and weekends, learning everyday and researching how to make things you want to happen, happen in a website. 
+Watching back the Code Institutes lessons again, numerous YouTube videos on everything HTML or CSS and delving into the dark corners of the Coding World to figure out why my code wasn't working they way I had anticipated.
 
-All in all, it's been one of the best expiences of my life which is a high accolade to be honest because remember .... 
+All in all, it's been one of the best experiences of my life which is a high accolade to be honest because remember .... 
 I was a RaVeR .... who had a whole lot of highs in the 90s for sure ;)
 
 Anyway being a Bedroom DJ, I deffo need to do a few shout outs to people and various places of resouced material.
@@ -333,13 +332,13 @@ None because it's all my story, yeoooo
 
 **Images used within my website**
 
-Hero Image 
+Hero Images - DJ Snooze-A-Lot images taken on my work phone by my big sister **Lynn** (who couldn't stop peeing herself) & me wee ma **Maureen**
 
-Section Heading Long Image
+Section Headings Background Crowd Image - [Rave Crowd Image](https://www.desktopbackground.org/wallpaper/crowd-people-hd-wallpapers-190330)
 
-Section Headings Vinyl Image
+Section Headings Vinyl Image - [Vinyl Image]("https://pngtree.com/so/audio")
 
-Profile Section background
+Profile Section background - 
 
 Best Memory Section Image
 
