@@ -22,8 +22,8 @@ body, html {
 .inline-block {
     display: inline-block;
 }
-
-h1 {
+                        /*-- Main section heading styling --*/
+h1 {                                
 	margin: 1em 0 0.5em 0;
 	font-weight: 600;
     font-family: 'Lato', sans-serif; 
@@ -98,12 +98,19 @@ p {
     color: #F8F9FA;
 }
 
+.craic-style p, .mem-text p {
+    line-height: 2.6rem;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
+}
+
 #footer-info h5 {
     text-transform: uppercase;
     color: #B696ED;
 }
 
-/*-- navigation bar --*/
+/*-- Navigation bar --*/
 
 .navbar {
     background: #F8F9FA;
@@ -128,7 +135,7 @@ p {
 .nav-link:hover {
     color: #EB5C68;
 }
-
+                        /*-- Change burger colour --*/
 .custom-toggler .navbar-toggler-icon {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(182, 150, 237, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 }
@@ -200,7 +207,7 @@ p {
     font-size: 3.2rem;
     font-weight: 400;
 }
-
+                        /*-- Hero image changes & turns grey on hover --*/
 #hero-image:hover {
     background-image: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("../images/snooze-hero-side.jpg");
     height: 100%;
@@ -263,13 +270,6 @@ p {
     min-height: 15rem;
 }
 
-.craic-style p {
-    line-height: 2.6rem;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    hyphens: auto;
-}
-
 /*-- Memory Section --*/
 
 .mem-text {
@@ -278,13 +278,6 @@ p {
     justify-content: center;
     text-align: justify;
     padding: 2%;
-}
-
-.mem-text p {                      /* Same as craic-style */
-    line-height: 2.6rem;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    hyphens: auto;
 }
 
 #memory .rave-cave-image {
@@ -314,7 +307,7 @@ p {
 #top .underline a:hover {
     color: #EB5C68;
 }
-
+                        /*-- iframe styling with a little opacity to maintain background image somewhat --*/
 #top .you-pad {
     display: flex;
     align-items: center;
@@ -331,7 +324,6 @@ p {
     background-position: center;
     width: 100%;
     overflow: hidden;
-
 } 
 
 #tour .tour-head-pads {
@@ -348,7 +340,7 @@ p {
 .contact-image {
     position: relative; 
 }
-
+                        /*-- To add opacity to background image only --*/
 .contact-image::before {
     content: "";
     background-image: url("../images/kellys-portrush.jpg");
@@ -452,7 +444,7 @@ footer {
 .foot-links {
     padding-top: 1rem;
 }
-
+                        /*-- Footer links styling with hover transitions --*/
 .foot-links li a i {
     width: 3.2rem;
     height: 3.2rem;
@@ -496,7 +488,7 @@ footer {
     .bgimg {
         position: relative; 
 }
-
+                        /*-- To add opacity to background image only --*/
     .bgimg::before {
         content: "";
         background-image: url("../images/dj-silhouette-purps.png");
@@ -514,30 +506,26 @@ footer {
 
 /* Landscape tablets and medium desktops */
 @media (min-width: 992px) and (max-width: 1199px) {
-
-        .bgimg {
-            background-image: none;
-        }
-
+                        /*-- Adjust position of my logo in Hero section on smaller screens --*/
         #hero-image .hero-logo {
         position: absolute;
         top: 53%;
         left: 77%;			
         }
-
+                        /*-- Adjust size of my logo in Hero section on smaller screens --*/
         .image-size {
         height: 20rem;
         filter:invert(100%);
         opacity: 0;      
         }
+                        /*-- Remove DJ silhouette in Profile section on smaller screens --*/
+        .bgimg {
+            background-image: none;
+        }
 }
 
 /* Portrait tablets and small desktops */
 @media (min-width: 768px) and (max-width: 991px) {
-
-        .bgimg {
-            background-image: none;
-        }
 
         #hero-image .hero-logo {
         position: absolute;
@@ -551,6 +539,10 @@ footer {
         opacity: 0;      
         }
 
+        .bgimg {
+            background-image: none;
+        }
+
         #top .you-pad {
             padding-top: 5rem;
         }
@@ -558,11 +550,7 @@ footer {
 
 /* Landscape phones and portrait tablets */
 @media (max-width: 767px) {
-
-        .bgimg {
-            background-image: none;
-        }
-
+                        /*-- Adjust position of jumbotron in Hero section on smaller screens --*/
         #hero-image .jumbotron {
         position: absolute;
         top: 1%;
@@ -587,6 +575,10 @@ footer {
         opacity: 0;      
         }
 
+        .bgimg {
+            background-image: none;
+        }
+
         #tour .tour-head-pads {
         padding-top: 10rem;
         }
@@ -607,14 +599,14 @@ footer {
 /* Portrait phones and smaller */
 @media (max-width: 480px) {
 
-        .bgimg {
-            background-image: none;
-        }
-
         .image-size {
         height: 10rem;
         filter:invert(100%);
         opacity: 0;      
+        }
+
+        .bgimg {
+            background-image: none;
         }
 
         #tour .tour-head-pads {
