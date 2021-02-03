@@ -183,7 +183,7 @@ Features that could be implemented into my website possibly in the future, could
 * More raves stories but not all mine, maybe users could attribute to like in a comments section or in a forum, as Rave Stories are the ulimate stories because we got up to all sorts of mad stuff.
 * Obviously, new Tour Dates as in a few months the current ones will have expired and I will have wrecked bedrooms all around the world.
 
-I know this is my first site 
+I know this is my first site but look at me with my possible future website implementations ha ha (feeling good bro)
 
 
 # Technologies Utilised
@@ -336,18 +336,25 @@ Hero Images - DJ Snooze-A-Lot images taken on my work phone by my big sister **L
 
 Section Headings Background Crowd Image - [Rave Crowd Image](https://www.desktopbackground.org/wallpaper/crowd-people-hd-wallpapers-190330)
 
-Section Headings Vinyl Image - [Vinyl Image]("https://pngtree.com/so/audio")
+Section Headings Vinyl Image - [Vinyl Image](https://pngtree.com/freepng/vinyl-record-disc_4766722.html) I changed the center colour to suit my colour scheme.
 
-Profile Section background - 
+Profile Section background - [DJ Silhouette](https://pngtree.com/freepng/dj-silhouette-fashion-music-man_5758033.html) I changed the colour to suit my colour scheme.
 
-Best Memory Section Image
+Best Memory Section Image - Eclipse Magazine edition I have, with this image of our Rave In The Cave afterparty.
 
-Top 10 Section Background Image
+Top 10 Section Background Image - Old photos of Kellys Portrush, I had on my phone but this one was done by **Brendan Doc (The Barn in Kellys, Portrush, September 1993).**
 
-Footer Section Smiley Image
+Tour Date Section Background Image - [Neon Background](https://pngtree.com/free-backgrounds)
 
+Contact Section Background Image - Old photos of Kellys Portrush, I had on my phone from ages ago
+
+Footer Section Smiley Image - [Rave Smiley](https://www.freevectors.net/acid-smiley-free-tomrobers101-38328)
 
 **Special Shout Out**
 
+* Firstly my sister & mum for my hero images. The laugh we had taking them & trying to get them perfect.
+* Slack for continuous information, help links, tutorials, laughter, support .... I could go on.
+* [Stackoverflow](https://stackoverflow.com/), useful resource site for finding solutions to many issues I had.
+* All the oldskool & newskool ravers around the world that keep the vibe & love flowing **PLUR**
 
-
+**This site is mainly for educational purposes only but chill out, have a laugh & enjoy the music!**
