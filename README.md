@@ -73,7 +73,7 @@ How cool would that be ha ha ?
 * As a site owner, I want them to connect and love the character that is DJ Snooze-A-Lot
 * As a site owner, I want people to enjoy some top tunes from the 90s
 * As a site owner, I want like minded ravers to relive their youth through my website
-* As a site owner, I want set up a mailing list for future CD sales and updates. Also a competetion possibly on sigh up.
+* As a site owner, I want set up a mailing list for future CD sales and updates. Also a competition possibly on sign-up.
 * As a site owner, I want people to wonder who is the man behind this crazy facade that is Irelands longest Bedroom DJ
 
 
@@ -85,7 +85,7 @@ How cool would that be ha ha ?
 * Professional looking website which is aesthetically pleasing
 * 5 or 6 sections depending on overall look and how compact it may look
 * As much funny stuff as possible but in a professional manner (if possible)
-* To have an email sign-up form or contact form for DJ updates, future CD's and live mixes plus a wee competetion to win a CD on sign-up
+* To have an email sign-up form or contact form for DJ updates, future CD's and live mixes plus a wee competition to win a CD on sign-up
 
 ### Expectations
 
@@ -101,7 +101,7 @@ How cool would that be ha ha ?
 To be honest, at the start I was all for UV lighting, bright neon colours, flashing strobes and as 90s ravery (not a word but I'm using it) as I could get.
 But the more I thought about it, it would have looked really awful and loud .... probably hurt the eyes to be fair. So in my head before I start to design it,
 I want to keep my website relatively simple, I am going to keep it chilled out and deffo give it a relaxed feel, well until my Top 10 section ... OI OI !!!
-I did some research on famous DJs amd their associated websites, just to see what kind of information is displayed there. 
+I did some research on famous DJs and their associated websites, just to see what kind of information is displayed there. 
 Some were very similar to what I had in mind before I previewed them so I was pleasantly pleased. Some were very compact with a lot going on in such a small space.
 Anyway, simple but funny is key to my design
 
@@ -161,7 +161,7 @@ I realised this was the correct direction when designing my wireframes and also 
 
 ### What didn't make the cut
 
-As you can see from my wireframes mentioned above, nothing much deviated from the original plan which I am pleasantly pleased about considering this is my first project & therefore my first website design.
+As you can see from my wireframes mentioned above, nothing much deviated from the original plan which I am very pleased about considering this is my first project & therefore my first website design.
 
 My hero image was going to be a simple image of me on my decks in my bedroom with a simple caption. Don't get me wrong, this would have worked fine & still looked cool.
 I just wanted to try something a little different to introduce myself to the world.  
@@ -169,20 +169,20 @@ I just wanted to try something a little different to introduce myself to the wor
 The Backstory section became the Best Memory section because when I started writing something or thinking about the Northern Ireland rave scene, I always thought about this one night / morning.
 Plus I had an historical artifact ... the magazine edition with the one image that captured that very memory !  
 
-In the Top 10 section I kept the youtube iframe on the right hand side until smaller screen sizes, where I move it to the bottom of my list using media queries.
+In the Top 10 section I kept the youtube iframe on the right hand side until smaller screen sizes, where I move it to the bottom of my list using Bootstrap.
 When I looked at the links beside the iframe, I thought it would be better looking to position it at the bottom than where I orginally wanted, which was in the middle of the list.  
 
 The Tour Dates section probably changed the most from orginally planned. It was going to be a simple vertical chronological list of humorous dates on a plain background.
 I came across that background when looking for DJ & rave images, pngs. I thought I could utilise that for my Tour section, test it, liked it so therefore kept it in.
 I then made my actual Tour Dates info display horizontal which deffo looks much more appealing than my initial thoughts for this section.  
 
-The Contact & Competition section changed to just the contact section. I also combined the competiton into my contact jumbotron for aesthetics & simplicity values.
+The Contact & Competition section changed to just the Contact section. I also combined the competiton into my contact jumbotron for aesthetics & simplicity values.
 It looks much better now than when I had it split into two seperate sections. I also added a background image of inside Kellys Portrush to work with the slightly opaque contact form.  
 
 Finally, a fair few banging rave tunes didn't make the cut which was one of the hardest parts of this whole project .... The Top 10 Selection, ha ha. 
 Obviously, there are loads more top tunes out there but these were my Top 10 choices, in the pressure world of deadlines & sacrifices.  
 
-That's the main changes that occurred as I progressed through this project & like I said, it stayed pretty much they way I orginally wanted. 
+That's the main changes that occurred as I progressed through this project & like I said, it stayed pretty much the way I originally wanted. 
 As I gather more experience, I will get better at deciding what will look good & choosing better layout options .... also the CSS coding will get better organised :)
 
 
@@ -229,7 +229,7 @@ I know this is my first site but look at me with my possible future website impl
 For testing purposes I used Chromium Dev Tools & an online website tester called [Powermapper](https://www.powermapper.com/).
 I was really sure what to expect, as this was my first time trying these tools out.
 
-Chromium Dev Tools highlighted a 'favicon' issues which I sorted by adding one.
+Chromium Dev Tools highlighted a 'favicon' issue which I sorted by adding one.
 
 Powermapper brought back a few issues but nothing too serious.
 
@@ -282,20 +282,20 @@ I'm sure a lot of people may think it is boring but it's my first website & with
 
 **Contact Form**
 
-* **Implementation -** I used a standard Bootstrap form but amended it to suit my design. My orginal design had two sections, one for contact & one for competition.
+* **Implementation -** I used a standard Bootstrap form but amended it to suit my design. My original design had two sections, one for contact & one for competition.
 I combined the both into a jumbotron, which made the overall section much more user friendly & pleasing on the eye. I added form validation on the inputs later on, as I had forgot them at the time.
 I also added *check* to one of my radios so that one is always selected. At the minute, you can not send the form anywhere but maybe in the future. 
 
 * **Results -** All inputs work & are validated. The radios & checkbox work. The jumbotron & background image work awesome together. My **submit** button has been changed to suit the websites colour scheme too.
 
-* **Verdict -** For me, I think the contact form looks really well & much much better that my orginal design which was very boring to be honest.
+* **Verdict -** For me, I think the contact form looks really well & much much better that my original design which was very boring to be honest.
 
 # Bugs
 ---
 Before October 2020 the only encounter I had with websites was viewing them as a so called 'user'.
 Fast forward 3 months and I'm fairly close to handing in my first MS1 project and therefore my first ever website .... unbelieveable.
 I knew it was gonna be tough at times due to my inexperience but me, being stubborn and persistant, kept going & learning everyday.
-One day I sat for 2 to 3 hours trying to figure out why my code ain't working .... fecking one little TYPO !!! But you learn from such dishearting experiences ha ha, believe me :)
+One day I sat for 2 to 3 hours trying to figure out why my code ain't working .... fecking one little TYPO !!! But you learn from such disheartening experiences ha ha, believe me :)
 
 Anyway, it's all about bugs and not the wee bed bugs seeing I'm a Bedroom DJ !!!
 
@@ -313,7 +313,7 @@ On my first lonesome outing in the world of coding .... I fecked up my **'read m
 
 So I added a funny pic, added loads of read-me content, added my index.html and started this too. Sorry, at this point 
 I was only learning and did not realise it was in your best interest to ***git commit*** regularly.   
-Onwards thy storyteller .... I then did a *git status* , not really paying attention to what it said ny the way, followed but a *git add*.
+Onwards thy storyteller .... I then did a *git status* , not really paying attention to what it said by the way, followed but a *git add*.
 Finally a *git commit* saying "Initial commit, read me started, index.html created & started".   
  All good I'm thinking to myself :), let's see *git status* ....  
 
@@ -337,7 +337,7 @@ I just copied the link part and pasted this into each link in my html because I 
 
 Although I could get them to autoplay the tunes, they were always muted. I tried various options and methods, looking into YouTubes API for answers.
 Unfortunately as of 2018 the [Autoplay Policy Changed](https://developers.google.com/web/updates/2017/09/autoplay-policy-changes) and you could only autoplay now when muted.
-There are some exceptions when this will work unmuted but this depends on the *the user* clicking on the links and *their settings.
+There are some exceptions when this will work unmuted but this depends on the *the user* clicking on the links and *their settings*.
 You can read about it in the previous link.
 
 
@@ -358,7 +358,7 @@ In the end I had to reboot my laptop and fortunately it all became good again.
 **Bug 5**
 
 Another day I started my Gitpod workspace and some of the index html was missing. The code at the bottom had just vanished from the previous night.
-A part of my footer, my end scripts, my end body tag and my end html tag were no longer where thety should be.  
+A part of my footer, my end scripts, my end body tag and my end html tag were no longer where they should be.  
 I have no answer to why this happened if the truth be told but luckily enough I was always backing my code up in Notepad 
 so I simply copied and pasted the missing html code.
 It worked but just be careful everyone.
@@ -437,7 +437,7 @@ Copy the following code and enter it into your *terminal* to **clone DJ Snooze-A
 # Credits
 ---
 I know this is my first site and I had such an experience from start to finish I can assure you of that.  
-I was up ... I was down ... Somedays I felt like Neo from the Matrix ... Other days I had serious Imposter Syndrome, like why the feck am I doing this because I know nothing about coding.
+I was up ... I was down ... Someday's I felt like Neo from the Matrix ... Other days I had serious Imposter Syndrome, like why the feck am I doing this because I know nothing about coding.
 I would stare a bit of code and think what does that actually mean .... I don't get it.  
 I really struggled with the Bootstrap grid and the fact it's Mobile First.   
 Man, did that fry my head for ages.....  
