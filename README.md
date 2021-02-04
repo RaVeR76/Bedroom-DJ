@@ -282,20 +282,13 @@ I'm sure a lot of people may think it is boring but it's my first website & with
 
 **Contact Form**
 
-* **Implementation -** 
+* **Implementation -** I used a standard Bootstrap form but amended it to suit my design. My orginal design had two sections, one for contact & one for competition.
+I combined the both into a jumbotron, which made the overall section much more user friendly & pleasing on the eye. I added form validation on the inputs later on, as I had forgot them at the time.
+I also added *check* to one of my radios so that one is always selected. At the minute, you can not send the form anywhere but maybe in the future. 
 
+* **Results -** All inputs work & are validated. The radios & checkbox work. The jumbotron & background image work awesome together. My **submit** button has been changed to suit the websites colour scheme too.
 
-
-
-
-
-
-
-
-
-
-
-
+* **Verdict -** For me, I think the contact form looks really well & much much better that my orginal design which was very boring to be honest.
 
 # Bugs
 ---
@@ -312,7 +305,6 @@ The majority of bugs were basically as mentioned above, typos or syntax errors o
 So what bugs or issues did I find ...
   
   
-
 ## The Development Journey
 
 **Bug 1** 
@@ -374,7 +366,21 @@ It worked but just be careful everyone.
 
 ## The Validation & Testing Journey
 
-# TBC
+There were a few issues that validation & testing threw up but nothing that couldn't be sorted.
+
+* *Favicon.ico* error in Dev Tools
+    * Added favicon which I am super happy with btw, looks awesome :)
+
+* Hero-image section lacking **heading**
+    * Nothing I could do about this, as I didn't use one
+
+* *iframe* had obsolete attribute in **allowtransparency**
+    * Removed attribute as not required
+
+* *iframe* needed a title or aria-label
+    * I added an aria-label
+
+All in all, I am happy with the results from the validation & testing.
 
 
 
@@ -397,6 +403,37 @@ The main points he did mention that I had to fix were -
 
 # Deployment
 ---
+**DJ Snooze-A-Lot** *(Ireland's Longest Serving Bedroom DJ)* was *developed* on **GitPod**, using **git** and **GitHub** to host the repository.
+
+When deploying *DJ Snooze-A-Lot* using **GitHub Pages** the following steps were made:
+
+* Opened up **GitHub** in the *browser*.
+* Signed in using *username* and *password*.
+* Selected my **repositories**.
+* Navigated to **RaVeR76/Bedroom-DJ**.
+* In the top navigation click *settings*.
+* Scrolled down to the **GitHub Pages** area.
+* Selected **Master Branch** from the **Source** dropdown menu.
+* Clicked to *confirm* my *selection*.
+* Dj Snooze-A-Lot is now **live** on **GitHub Pages**.
+
+**Running DJ Snooze-A-Lot Locally**
+
+**Cloning** DJ Snooze-A-Lot from **GitHub**:
+
+* Navigate to **RaVeR76/Bedroom-DJ**.
+* Click the green **Clone or Download** button.
+* *Copy* the url in the *dropdown box*.
+* Using your **favourite IDE** open up your preferred terminal.
+* *Navigate* to your desired file location.
+
+Copy the following code and enter it into your *terminal* to **clone DJ Snooze-A-Lot**.
+
+```git clone https://github.com/RaVeR76/Bedroom-DJ```
+
+
+
+
 # Credits
 ---
 I know this is my first site and I had such an experience from start to finish I can assure you of that.  
