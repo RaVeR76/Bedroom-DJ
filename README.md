@@ -305,7 +305,7 @@ The majority of bugs were basically as mentioned above, typos or syntax errors o
 So what bugs or issues did I find ...
   
   
-## The Development Journey
+### The Development Journey
 
 **Bug 1** 
 
@@ -364,7 +364,7 @@ so I simply copied and pasted the missing html code.
 It worked but just be careful everyone.
 
 
-## The Validation & Testing Journey
+### The Validation & Testing Journey
 
 There were a few issues that validation & testing threw up but nothing that couldn't be sorted.
 
@@ -384,7 +384,7 @@ All in all, I am happy with the results from the validation & testing.
 
 
 
-## The Mentor Code Review Journey
+### The Mentor Code Review Journey
 
 It's time to panic when your mentor tells you to grab a pen and paper then take a seat ha ha, but it wasn't as bad as I thought it was going to be.
 He went fairly easy on me saying I just need to tidy up my HTML and CSS as it was pretty much a mess.
