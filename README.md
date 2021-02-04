@@ -226,6 +226,13 @@ I know this is my first site but look at me with my possible future website impl
 
 # Testing
 ---
+For testing purposes I used Chromium Dev Tools & an online website tester called [Powermapper](https://www.powermapper.com/).
+I was really sure what to expect, as this was my first time trying these tools out.
+
+Chromium Dev Tools highlighted a 'favicon' issues which I sorted by adding one.
+
+Powermapper brought back a few issues but nothing too serious.
+
 
 
 
