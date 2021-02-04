@@ -453,6 +453,13 @@ Anyway being a Bedroom DJ, I deffo need to do a few shout outs to people and var
 
 None because it's all my story, yeoooo
 
+**Main Section Headings Design**
+
+The main CSS code used for the styling of my **h1 headers** for each section, came from the internet somewhere. I've spent like 2 hours trying to find out where again so I
+can attribute the credit for it but to no avail ! Can't find it anywhere but this is just another lesson learnt for a newbie like me .... keep better track of everything. 
+Obviously, I added my own tweaks to it with the rave crowd background image, the transparent backgrounds on the sections with a background image already there 
+& my colour scheme for the website added.
+
 **Images used within my website**
 
 My Favicon - [Rave Smiley](https://www.freevectors.net/acid-smiley-free-tomrobers101-38328) image used & converted using [favicon](https://favicon.io/), an online generator
