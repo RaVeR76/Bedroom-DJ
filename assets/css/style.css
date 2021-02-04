@@ -212,10 +212,7 @@ p {
     background-image: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url("../images/snooze-hero-side.jpg");
     height: 100%;
     transition: all 3.0s ease;
-    filter: grayscale(100%);
-    -webkit-filter: grayscale(100%);
-    -moz-filter: grayscale(100%);
-    -o-filter: grayscale(100%);   
+    filter: grayscale(100%);  
 }
 
 #hero-image:hover .hero-logo .image-size {
@@ -456,9 +453,6 @@ footer {
     color: #F8F9FA;
     background: #212529;
     transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
 }
 
 .foot-links li a i:hover {
