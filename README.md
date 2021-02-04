@@ -233,6 +233,58 @@ Chromium Dev Tools highlighted a 'favicon' issues which I sorted by adding one.
 
 Powermapper brought back a few issues but nothing too serious.
 
+![PowerMapper Results](https://github.com/RaVeR76/Bedroom-DJ/raw/master/wireframes/powermapper-results.png)
+
+Most of the issues were spelling mistakes & simple things like :
+
+* I had to add an aria-label to my iframe.
+
+* Hero-image section lacks a heading.
+
+All in all I was happy with the results.
+
+I also tested the CSS using [W3C CSS Validator](https://jigsaw.w3.org/css-validator/).
+
+![CSS Validation Results](https://github.com/RaVeR76/Bedroom-DJ/raw/master/wireframes/css-validation.png)
+
+Here, you can see it all passed with no errors found. I had a few warnings which were webkit issues so I removed them.
+
+I also tested the HTML using [W3C Markup Validator](https://validator.w3.org/).
+
+![HTML Validation Results](https://github.com/RaVeR76/Bedroom-DJ/raw/master/wireframes/html-validation.png)
+
+Here you can see 2 issues:
+* My hero-image section doesn't have a heading as mentioned previously.
+* **allowtransparency** issue within *iframe* - I just removed this attribute as it wasn't required.
+
+**Responsiveness**
+
+* **Implementation -** I used the **Bootstrap** framework to build my site as it offered simplicity & responsiveness.
+I kept checking the responsiveness in Dev Tools as I went along to keep on top of it.  
+Not going to lie but I did struggle with the whole **mobile first** approach that is within Bootstrap but after numerous tutorials & online help, I eventually got my head around it.
+
+* **Results -** I feel the responsiveness of my website is pretty good & Bootstrap deffo helps with this.
+Although, I had to add a few media queries to assist with various transitions to smaller screens.
+Like my logo on the hero-image section, I had to keep making it smaller as the screen size got smaller.
+
+* **Verdict -** Overall, I feel my website is responsive at all screen sizes & looks good.
+
+**Design**
+
+* **Implementation -** My design is a basic scrolling website with a few sections. I chose Lato for headings & Titillium Web for all other text.
+The colour scheme I selected, generates a very tranquil vibe.
+The background images work so good too & I had not thought about this at the start when designing my wireframe.
+
+* **Results -** I feel that with my simple scrolling website, the colours, background images & overall layout that the user will have a pleasant & enjoyable experience.
+I'm sure a lot of people may think it is boring but it's my first website & with experience, they will get more lively, interactive & unique.
+
+* **Verdict -** Everything works as planned so I am very happy & the fact it's pretty much the same as my orginal wireframe design makes me even more happier :)
+
+**Contact Form**
+
+* **Implementation -** 
+
+
 
 
 
